@@ -27,7 +27,7 @@ This is the project for deep learning in stock market prediction.
 * Is Deep Learning for Image Recognition Applicable to Stock Market Prediction
 * Stock price forecasting model based on modified convolution neural network and financial time series analysis
 * Stock price prediction using lstm, rnn and cnn-sliding window model
-* A deep increasing鈥揹ecreasing-linear neural network for financial time series prediction
+* A deep increasing-decreasing-linear neural network for financial time series prediction
 * A Bayesian regularized artificial neural network for stock market forecasting
 * A study on novel filtering and relationship between input-features and target-vectors in a deep learning model for stock price prediction
 * Applying Artificial Neural Networks to prediction of stock price and improvement of the directional prediction index 鈥?Case study of PETR4, Petrobras, Brazil
