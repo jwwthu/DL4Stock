@@ -7,3 +7,9 @@
 * Carta S, Ferreira A, Podda A S, et al. <b>Multi-DQN: An ensemble of Deep Q-learning agents for stock market forecasting[J]</b>. Expert Systems with Applications, 2020, 164: 113820. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306321) [Code](https://github.com/multidqn/deep-q-trading)
 
 * Lee S W, Kim H Y. <b>Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation[J]</b>. Expert Systems with Applications, 2020, 161: 113704. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417420305285)
+
+* Bustos O, Pomares-Quimbaya A. <b>Stock market movement forecast: A systematic review[J]</b>. Expert Systems with Applications, 2020: 113464. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417420302888)
+
+* Rezaei H, Faaljou H, Mansourfar G. <b>Stock price prediction using deep learning and frequency decomposition[J]</b>. Expert Systems with Applications, 2020: 114332. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417420310228)
+
+* Garcia-Vega S, Zeng X J, Keane J. <b>Stock returns prediction using kernel adaptive filtering within a stock market interdependence approach[J]</b>. Expert Systems with Applications, 2020, 160: 113668. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417420304929) [Code](https://github.com/segarciave/ESwA-2020)
