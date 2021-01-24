@@ -1,0 +1,1 @@
+* Gu Y, Yan D, Yan S, et al. <b>Price Forecast with High-Frequency Finance Data: An Autoregressive Recurrent Neural Network Model with Technical Indicators[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management. 2020: 2485-2492. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3412738)
