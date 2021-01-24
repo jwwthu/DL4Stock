@@ -1,0 +1,1 @@
+* Luo Z, Guo W, Liu Q, et al. <b>A hybrid model for financial time‐series forecasting based on mixed methodologies[J]</b>. Expert Systems, 2020: e12633. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12633)
