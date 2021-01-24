@@ -1,0 +1,1 @@
+* Misra P, Chaurasia S. <b>Data-Driven Trend Forecasting in Stock Market Using Machine Learning Techniques[J]</b>. Journal of Information Technology Research (JITR), 2020, 13(1): 130-149. [Link](https://www.igi-global.com/article/data-driven-trend-forecasting-in-stock-market-using-machine-learning-techniques/240726)
