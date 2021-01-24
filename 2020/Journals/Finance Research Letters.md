@@ -1,0 +1,1 @@
+* Salisu A A, Vo X V. <b>Firm-specific news and the predictability of Consumer stocks in Vietnam[J]</b>. Finance Research Letters, 2020: 101801. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1544612320316159)
