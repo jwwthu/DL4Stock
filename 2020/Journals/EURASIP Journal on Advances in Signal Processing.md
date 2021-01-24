@@ -1,0 +1,1 @@
+* Gupta P, Maggu J, Majumdar A, et al. <b>DeConFuse: a deep convolutional transform-based unsupervised fusion framework[J]</b>. EURASIP Journal on Advances in Signal Processing, 2020, 2020: 1-32. [Link](https://link.springer.com/article/10.1186%2Fs13634-020-00684-5) [Code](https://github.com/pooja290992/DeConFuse)
