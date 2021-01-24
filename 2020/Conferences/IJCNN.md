@@ -1,0 +1,1 @@
+* Silva E G, Cavalcanti G D C, de Oliveira J F L, et al. <b>On the evaluation of dynamic selection parameters for time series forecasting[C]</b>//2020 International Joint Conference on Neural Networks (IJCNN). IEEE, 2020: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/9207222)
