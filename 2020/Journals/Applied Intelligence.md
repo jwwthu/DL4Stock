@@ -1,1 +1,3 @@
 * Xu Y, Yang C, Peng S, et al. <b>A hybrid two-stage financial stock forecasting algorithm based on clustering and ensemble learning[J]</b>. Applied Intelligence, 2020, 50(11): 3852-3867. [Link](https://link.springer.com/article/10.1007/s10489-020-01766-5)
+
+* Carta S, Corriga A, Ferreira A, et al. <b>A multi-layer and multi-ensemble stock trader using deep learning and deep reinforcement learning[J]</b>. Applied Intelligence, 2020: 1-17. [Link](https://link.springer.com/article/10.1007/s10489-020-01839-5) [Code](https://github.com/Artificial-Intelligence-Big-Data-Lab/A-Multi-Layer-and-Multi-Ensembled-Stock-Trader-Using-Deep-Learning-and-Deep-Reinforcement-Learning)
