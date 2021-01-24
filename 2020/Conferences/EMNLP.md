@@ -1,0 +1,1 @@
+* Wu X. <b>Event-Driven Learning of Systematic Behaviours in Stock Markets[C]</b>//Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings. 2020: 2434-2444. [Link](https://www.aclweb.org/anthology/2020.findings-emnlp.220/)
