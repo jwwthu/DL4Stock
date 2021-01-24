@@ -1,0 +1,1 @@
+* Chauhan L, Alberg J, Lipton Z. <b>Uncertainty-Aware Lookahead Factor Models for Quantitative Investing[C]</b>//International Conference on Machine Learning. PMLR, 2020: 1489-1499. [Link](http://proceedings.mlr.press/v119/chauhan20a.html) [Code](https://github.com/lakshaykc/lfm_quant)
