@@ -1,0 +1,1 @@
+* Zhang D, Lou S. <b>The application research of neural network and BP algorithm in stock price pattern classification and prediction[J]</b>. Future Generation Computer Systems, 2020, 115: 872-879. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20329861)
