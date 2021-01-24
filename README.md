@@ -7,5 +7,7 @@ If you find this repository helpful, you may consider cite our work:
 ## Journals
 * IEEE Access -[2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IEEE%20Access.md)
 
+* Symmetry -[2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Symmetry.md)
+
 ## Conferences
 * To be continued
