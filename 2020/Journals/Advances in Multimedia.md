@@ -1,0 +1,1 @@
+* Wei X, Lei B, Ouyang H, et al. <b>Stock Index Prices Prediction via Temporal Pattern Attention and Long-Short-Term Memory[J]</b>. Advances in Multimedia, 2020, 2020. [Link](https://www.hindawi.com/journals/am/2020/8831893/)
