@@ -1,0 +1,1 @@
+* Ronaghi F, Salimibeni M, Naderkhani F, et al. <b>ND-SMPF: A Noisy Deep Neural Network Fusion Framework for Stock Price Movement Prediction[C]</b>//2020 IEEE 23rd International Conference on Information Fusion (FUSION). IEEE, 2020: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/9190453)
