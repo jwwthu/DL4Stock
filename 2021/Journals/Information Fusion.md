@@ -1,0 +1,1 @@
+* Thakkar A, Chaudhari K. <b>Fusion in stock market prediction: A decade survey on the necessity, recent developments, and potential future directions[J]</b>. Information Fusion, 2021, 65: 95-107. [Link](https://www.sciencedirect.com/science/article/pii/S1566253520303481)
