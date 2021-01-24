@@ -1,0 +1,1 @@
+* Tsantekidis A, Tefas A. <b>Transferring trading strategy knowledge to deep learning models[J]</b>. Knowledge and Information Systems, 2020: 1-18. [Link](https://link.springer.com/article/10.1007/s10115-020-01510-y)
