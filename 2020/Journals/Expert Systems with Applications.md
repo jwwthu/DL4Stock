@@ -1,0 +1,1 @@
+Yan B, Aasma M. <b>A novel deep learning framework: Prediction and analysis of financial time series using CEEMD and LSTM[J]</b>. Expert Systems with Applications, 2020, 159: 113609. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417420304334)
