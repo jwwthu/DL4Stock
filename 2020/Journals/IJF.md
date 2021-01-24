@@ -1,0 +1,1 @@
+* Li Y, Bu H, Li J, et al. <b>The role of text-extracted investor sentiment in Chinese stock price prediction with the enhancement of deep learning[J]</b>. International Journal of Forecasting, 2020, 36(4): 1541-1562. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0169207020300625)
