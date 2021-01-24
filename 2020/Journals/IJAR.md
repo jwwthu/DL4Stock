@@ -1,0 +1,1 @@
+* Chatigny P, Patenaude J M, Wang S. <b>Spatiotemporal adaptive neural network for long-term forecasting of financial time series[J]</b>. International Journal of Approximate Reasoning, 2020. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0888613X2030267X)
