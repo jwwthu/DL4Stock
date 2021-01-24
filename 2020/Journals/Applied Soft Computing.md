@@ -1,0 +1,1 @@
+* Long J, Chen Z, He W, et al. <b>An integrated framework of deep learning and knowledge graph for prediction of stock price trend: An application in Chinese stock exchange market[J]</b>. Applied Soft Computing, 2020, 91: 106205. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494620301459)
