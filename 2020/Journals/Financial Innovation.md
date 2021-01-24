@@ -1,0 +1,1 @@
+* Xiong X, Cui Y, Yan X, et al. <b>Cost-benefit analysis of trading strategies in the stock index futures market[J]</b>. Financial Innovation, 2020, 6(1): 1-17. [Link](https://link.springer.com/article/10.1186/s40854-020-00191-4)
