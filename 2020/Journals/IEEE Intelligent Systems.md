@@ -1,0 +1,1 @@
+* Pu Y F, Zhang N, Wang H. <b>Fractional-order memristive predictor: Arbitrary-order string scaling fracmemristor based prediction model of trading price of future[J]</b>. IEEE Intelligent Systems, 2020, 35(2): 65-77. [Link](https://ieeexplore.ieee.org/abstract/document/9000736)
