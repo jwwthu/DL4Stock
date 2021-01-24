@@ -1,0 +1,1 @@
+* Wang Z, Shang P. <b>Generalized entropy plane based on multiscale weighted multivariate dispersion entropy for financial time series[J]</b>. Chaos, Solitons & Fractals, 2020: 110473. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0960077920308651)
