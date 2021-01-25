@@ -1,0 +1,1 @@
+* Cheng D, Yang F, Wang X, et al. <b>Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments[C]</b>//Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2020: 2221-2230. [Link](https://dl.acm.org/doi/abs/10.1145/3397271.3401427)
