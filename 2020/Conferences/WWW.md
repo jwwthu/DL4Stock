@@ -1,0 +1,1 @@
+* Yang L, Ng T L J, Smyth B, et al. <b>Html: Hierarchical transformer-based multi-task learning for volatility prediction[C]</b>//Proceedings of The Web Conference 2020. 2020: 441-451. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380128) [Code](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction)
