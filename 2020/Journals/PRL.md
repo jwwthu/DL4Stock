@@ -1,0 +1,1 @@
+* Passalis N, Tefas A, Kanniainen J, et al. <b>Temporal logistic neural bag-of-features for financial time series forecasting leveraging limit order book data[J]</b>. Pattern Recognition Letters, 2020, 136: 183-189. [Link](https://www.sciencedirect.com/science/article/pii/S0167865520302245)
