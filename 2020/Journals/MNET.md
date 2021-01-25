@@ -1,0 +1,1 @@
+* Affonso F, Dias T M R, Pinto A L. <b>Financial Times Series Forecasting of Clustered Stocks[J]</b>. Mobile Networks and Applications, 2020: 1-10. [Link](https://link.springer.com/article/10.1007/s11036-020-01647-8) [Code](https://github.com/felipe-affonso/Financial-Times-Series-Forecasting-MONET)
