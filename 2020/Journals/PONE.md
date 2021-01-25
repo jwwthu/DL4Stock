@@ -1,0 +1,1 @@
+* Leem J B, Kim H Y. <b>Action-specialized expert ensemble trading system with extended discrete action space using deep reinforcement learning[J]</b>. Plos one, 2020, 15(7): e0236178. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236178) [Data](https://github.com/JoonBumLeem/Time-series-dataset)
