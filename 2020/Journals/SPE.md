@@ -1,0 +1,1 @@
+* Wu J M T, Li Z, Srivastava G, et al. <b>A graph‐based convolutional neural network stock price prediction with leading indicators[J]</b>. Software: Practice and Experience, 2020. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2915)
