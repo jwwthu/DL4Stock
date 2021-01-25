@@ -1,0 +1,1 @@
+* Zhang W, Tao K, Li J, et al. <b>Modeling and Prediction of Stock Price with Convolutional Neural Network Based on Blockchain Interactive Information[J]</b>. Wireless Communications and Mobile Computing, 2020, 2020. [Link](https://www.hindawi.com/journals/wcmc/2020/6686181/)
