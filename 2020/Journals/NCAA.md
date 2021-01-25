@@ -1,0 +1,1 @@
+* Lu W, Li J, Wang J, et al. <b>A CNN-BiLSTM-AM method for stock price prediction[J]</b>. Neural Computing and Applications, 2020: 1-13. [Link](https://link.springer.com/article/10.1007/s00521-020-05532-z)
