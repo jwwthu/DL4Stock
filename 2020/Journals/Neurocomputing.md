@@ -1,0 +1,3 @@
+* Wu J, Xu K, Zhao J. <b>Predicting long-term returns of individual stocks with online reviews[J]</b>. Neurocomputing, 2020, 417: 406-418. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220312893)
+
+* Xu H, Chai L, Luo Z, et al. <b>Stock movement predictive network via incorporative attention mechanisms based on tweet and historical prices[J]</b>. Neurocomputing, 2020, 418: 326-339. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220313060)
