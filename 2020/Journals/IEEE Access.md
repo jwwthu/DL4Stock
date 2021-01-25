@@ -18,6 +18,8 @@
 
 * Nabipour M, Nayyeri P, Jabani H, et al. <b>Predicting Stock Market Trends Using Machine Learning and Deep Learning Algorithms Via Continuous and Binary Data; a Comparative Analysis[J]</b>. IEEE Access, 2020, 8: 150199-150212. [Link](https://ieeexplore.ieee.org/abstract/document/9165760)
 
+* Kim S, Ku S, Chang W, et al. <b>Predicting the Direction of US Stock Prices Using Effective Transfer Entropy and Machine Learning Techniques[J]</b>. IEEE Access, 2020, 8: 111660-111682. [Link](https://ieeexplore.ieee.org/abstract/document/9119388)
+
 * Alfonso G, Carnerero A D, Ramirez D R, et al. <b>Stock forecasting using local data[J]</b>. IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9306750)
 
 * Li A W, Bastos G S. <b>Stock Market Forecasting Using Deep Learning and Technical Analysis: A Systematic Review[J]</b>. IEEE Access, 2020, 8: 185232-185242. [Link](https://ieeexplore.ieee.org/abstract/document/9220868)
