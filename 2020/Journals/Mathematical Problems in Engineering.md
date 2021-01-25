@@ -1,0 +1,1 @@
+* Yang C, Zhai J, Tao G. <b>Deep Learning for Price Movement Prediction Using Convolutional Neural Network and Long Short-Term Memory[J]</b>. Mathematical Problems in Engineering, 2020, 2020. [Link](https://www.hindawi.com/journals/mpe/2020/2746845/)
