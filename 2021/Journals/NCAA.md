@@ -1,0 +1,1 @@
+* Singh S, Parmar K S, Kumar J. <b>Soft computing model coupled with statistical models to estimate future of stock market[J]</b>. Neural Computing and Applications, 1-19. [Link](https://link.springer.com/article/10.1007/s00521-020-05506-1)
