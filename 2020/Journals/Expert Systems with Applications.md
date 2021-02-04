@@ -1,5 +1,9 @@
 * Yan B, Aasma M. <b>A novel deep learning framework: Prediction and analysis of financial time series using CEEMD and LSTM[J]</b>. Expert Systems with Applications, 2020, 159: 113609. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417420304334)
 
+* Orimoloye L O, Sung M C, Ma T, et al. <b>Comparing the effectiveness of deep feedforward neural networks and shallow architectures for predicting stock price indices[J]</b>b>. Expert Systems with Applications, 2020, 139: 112828. [Link](https://www.sciencedirect.com/science/article/pii/S0957417419305305)
+
+* Jerez T, Kristjanpoller W. <b>Effects of the validation set on stock returns forecasting[J]</b>. Expert Systems with Applications, 2020, 150: 113271. [Link](https://www.sciencedirect.com/science/article/pii/S0957417420300968)
+
 * Haq A U, Zeb A, Lei Z, et al. <b>Forecasting daily stock trend using multi-filter feature selection and deep learning[J]</b>. Expert Systems with Applications, 168: 114444. [Link](https://www.sciencedirect.com/science/article/abs/pii/S095741742031099X)
 
 * Lin G, Lin A, Cao J. <b>Multidimensional KNN algorithm based on EEMD and complexity measures in financial time series forecasting[J]</b>. Expert Systems with Applications, 168: 114443. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417420311015)
