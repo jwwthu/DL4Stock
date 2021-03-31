@@ -1,0 +1,1 @@
+* Koratamaddi P, Wadhwani K, Gupta M, et al. <b>Market sentiment-aware deep reinforcement learning approach for stock portfolio allocation[J]</b>. Engineering Science and Technology, an International Journal, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S2215098621000070)

@@ -1,0 +1,3 @@
+* Hu Z, Zhao Y, Khushi M. <b>A Survey of Forex and Stock Price Prediction Using Deep Learning[J]</b>. Applied System Innovation, 2021, 4(1): 9. [Link](https://www.mdpi.com/983750)
+* Singh J, Khushi M. <b>Feature Learning for Stock Price Prediction Shows a Significant Role of Analyst Rating[J]</b>. Applied System Innovation, 2021, 4(1): 17. [Link](https://www.mdpi.com/1016362)
+* Jaggi M, Mandal P, Narang S, et al. <b>Text Mining of Stocktwits Data for Predicting Stock Prices[J]</b>. Applied System Innovation, 2021, 4(1): 13. [Link](https://www.mdpi.com/1001322)

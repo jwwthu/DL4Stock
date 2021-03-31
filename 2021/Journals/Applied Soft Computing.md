@@ -1,0 +1,2 @@
+* Hung H C, Chuang Y J, Wu M C. <b>Customizable and committee data mining framework for stock trading[J]</b>. Applied Soft Computing, 2021: 107277. [Link](https://www.sciencedirect.com/science/article/pii/S1568494621002003)
+* Shi Y, Li W, Zhu L, et al. <b>Stock trading rule discovery with double deep Q-network[J]</b>. Applied Soft Computing, 2021: 107320. [Link](https://www.sciencedirect.com/science/article/pii/S156849462100243X)
