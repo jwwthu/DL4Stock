@@ -1,0 +1,1 @@
+* Yuan H, Tang Y, Xu W, et al. <b>Exploring the influence of multimodal social media data on stock performance: an empirical perspective and analysis[J]</b>. Internet Research, 2021. [Link](https://www.emerald.com/insight/content/doi/10.1108/INTR-11-2019-0461/full/html)

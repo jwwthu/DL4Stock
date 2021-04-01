@@ -1,0 +1,1 @@
+* Yıldırım D C, Toroslu I H, Fiore U. <b>Forecasting directional movement of Forex data using LSTM with technical and macroeconomic indicators[J]</b>. Financial Innovation, 2021, 7(1): 1-36. [Link](https://link.springer.com/article/10.1186/s40854-020-00220-2)

@@ -1,0 +1,1 @@
+* Dong Y, Yan D, Almudaifer A I, et al. <b>BELT: A Pipeline for Stock Price Prediction Using News[C]</b>//2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020: 1137-1146. [Link](https://ieeexplore.ieee.org/abstract/document/9378345/)

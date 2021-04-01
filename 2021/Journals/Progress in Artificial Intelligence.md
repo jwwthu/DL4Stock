@@ -1,0 +1,1 @@
+* AbdelKawy R, Abdelmoez W M, Shoukry A. <b>A synchronous deep reinforcement learning model for automated multi-stock trading[J]</b>. Progress in Artificial Intelligence, 2021, 10(1): 83-97. [Link](https://link.springer.com/article/10.1007/s13748-020-00225-z)

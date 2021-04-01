@@ -1,0 +1,1 @@
+* Polamuri S R, Srinivas K, Mohan A K. <b>Multi model-Based Hybrid Prediction Algorithm (MM-HPA) for Stock Market Prices Prediction Framework (SMPPF)[J]</b>. Arabian Journal for Science and Engineering, 2020, 45(12): 10493-10509. [Link](https://link.springer.com/article/10.1007/s13369-020-04782-2)

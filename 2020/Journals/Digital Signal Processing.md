@@ -1,0 +1,1 @@
+* Liu H, Long Z. <b>An improved deep learning model for predicting stock market price time series[J]</b>. Digital Signal Processing, 2020, 102: 102741. [Link](https://www.sciencedirect.com/science/article/pii/S1051200420300865)

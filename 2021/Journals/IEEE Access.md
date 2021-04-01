@@ -1,0 +1,2 @@
+* Ji Y, Liew A W C, Yang L. <b>A Novel Improved Particle Swarm Optimization With Long-Short Term Memory Hybrid Model for Stock Indices Forecast[J]</b>. IEEE Access, 2021, 9: 23660-23671. [Link](https://ieeexplore.ieee.org/abstract/document/9345681/) [Data](http://dx.doi.org/10.21227/vvr8-8g25)
+* Althelaya K A, Mohammed S A, El-Alfy E S M. <b>Combining Deep Learning and Multiresolution Analysis for Stock Market Forecasting[J]</b>. IEEE Access, 2021, 9: 13099-13111. [Link](https://ieeexplore.ieee.org/abstract/document/9324831/)

@@ -1,0 +1,1 @@
+* Cagliero L, Garza P, Attanasio G, et al. <b>Training ensembles of faceted classification models for quantitative stock trading[J]</b>. Computing, 2020: 1-13. [Link](https://link.springer.com/article/10.1007/s00607-019-00776-7)

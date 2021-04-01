@@ -1,0 +1,2 @@
+* Yujun Y, Yimei Y, Jianhua X. <b>A Hybrid Prediction Method for Stock Price Using LSTM and Ensemble EMD[J]</b>. Complexity, 2020, 2020. [Link](https://www.hindawi.com/journals/complexity/2020/6431712/)
+* Teng X, Wang T, Zhang X, et al. <b>Enhancing stock price trend prediction via a time-sensitive data augmentation method[J]</b>. Complexity, 2020, 2020. [Link](https://www.hindawi.com/journals/complexity/2020/6737951/)

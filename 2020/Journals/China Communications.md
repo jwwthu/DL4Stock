@@ -1,0 +1,1 @@
+* Wang Y, Guo Y. <b>Forecasting method of stock market volatility in time series data based on mixed model of ARIMA and XGBoost[J]</b>. China Communications, 2020, 17(3): 205-221. [Link](https://ieeexplore.ieee.org/abstract/document/9058617/)

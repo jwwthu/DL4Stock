@@ -1,0 +1,1 @@
+* Chen W, Jiang M, Zhang W G, et al. <b>A novel graph convolutional feature based convolutional neural network for stock trend prediction[J]</b>. Information Sciences, 2021, 556: 67-94. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520312342)

@@ -1,0 +1,1 @@
+* Juszczuk P, Kozak J, Kania K. <b>Using similarity measures in prediction of changes in financial market stream data—Experimental approach[J]</b>. Data & Knowledge Engineering, 2020, 125: 101782. [Link](https://www.sciencedirect.com/science/article/pii/S0169023X18306451)

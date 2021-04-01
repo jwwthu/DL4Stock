@@ -1,0 +1,2 @@
+* Gite S, Khatavkar H, Kotecha K, et al. <b>Explainable stock prices prediction from financial news articles using sentiment analysis[J]</b>. PeerJ Computer Science, 2021, 7: e340. [Link](https://peerj.com/articles/cs-340) [Code](https://github.com/Hrituja/Stock-Market-Prediction)
+* Ko C R, Chang H T. <b>LSTM-based sentiment analysis for stock price forecast[J]</b>. PeerJ Computer Science, 2021, 7: e408. [Link](https://peerj.com/articles/cs-408/) [Code](https://peerj.com/articles/cs-408/#supplemental-information)

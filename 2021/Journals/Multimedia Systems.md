@@ -1,0 +1,1 @@
+* Wu J M T, Li Z, Herencsar N, et al. <b>A graph-based CNN-LSTM stock price prediction algorithm with leading indicators[J]</b>. Multimedia Systems, 2021: 1-20. [Link](https://link.springer.com/article/10.1007/s00530-021-00758-w)
