@@ -1,0 +1,1 @@
+* Zavadzki S T, Kleina M, Drozda F O, et al. <b>Computational Intelligence Techniques Used for Stock Market Prediction: A Systematic Review[J]</b>. IEEE Latin America Transactions, 2020, 18(04): 744-755. [Link](https://ieeexplore.ieee.org/abstract/document/9082218/)

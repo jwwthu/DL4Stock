@@ -1,0 +1,1 @@
+* Song H, Peng D, Huang X. <b>Incorporating Research Reports and Market Sentiment for Stock Excess Return Prediction: A Case of Mainland China[J]</b>. Scientific Programming, 2020, 2020. [Link](https://www.hindawi.com/journals/sp/2020/8894757/)

@@ -1,0 +1,1 @@
+* Song Y, Lee J W, Lee J. <b>Development of Intelligent Stock Trading System Using Pattern Independent Predictor and Turning Point Matrix[J]</b>. Computational Economics, 2020: 1-12. [Link](https://link.springer.com/article/10.1007/s10614-020-10066-6)

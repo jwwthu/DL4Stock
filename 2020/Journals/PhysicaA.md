@@ -1,3 +1,3 @@
+* Han T, Peng Q, Zhu Z, et al. <b>A pattern representation of stock time series based on DTW[J]</b>. Physica A: Statistical Mechanics and its Applications, 2020, 550: 124161. [Link](https://www.sciencedirect.com/science/article/pii/S0378437120300157)
 * Jiang M, Liu J, Zhang L, et al. <b>An improved Stacking framework for stock index prediction by leveraging tree-based ensemble models and deep learning algorithms[J]</b>. Physica A: Statistical Mechanics and its Applications, 2020, 541: 122272. [Link](https://www.sciencedirect.com/science/article/pii/S0378437119313093)
-
 * Arias-Calluari K, Alonso-Marroquin F, Najafi M N, et al. <b>Methods for forecasting the effect of exogenous risks on stock markets[J]</b>. Physica A: Statistical Mechanics and its Applications, 2020: 125587. [Link](https://www.sciencedirect.com/science/article/pii/S0378437120308852)

@@ -1,0 +1,1 @@
+* Huang S C, Chiou C C, Chiang J T, et al. <b>A novel intelligent option price forecasting and trading system by multiple kernel adaptive filters[J]</b>. Journal of Computational and Applied Mathematics, 2020, 369: 112560. [Link](https://www.sciencedirect.com/science/article/pii/S0377042719305655)

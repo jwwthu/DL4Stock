@@ -1,1 +1,2 @@
 * Luo Z, Guo W, Liu Q, et al. <b>A hybrid model for financial time‐series forecasting based on mixed methodologies[J]</b>. Expert Systems, 2020: e12633. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12633)
+* Tsinaslanidis P, Guijarro F. <b>What makes trading strategies based on chart pattern recognition profitable?[J]</b>. Expert Systems, 2020: e12596. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.12596)

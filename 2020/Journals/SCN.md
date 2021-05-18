@@ -1,0 +1,1 @@
+* Liu B, Wu Q, Cao Q. <b>An Improved Elman Network for Stock Price Prediction Service[J]</b>. Security and Communication Networks, 2020, 2020. [Link](https://www.hindawi.com/journals/scn/2020/8824430/)

@@ -1,5 +1,3 @@
 * Ding Q, Wu S, Sun H, et al. <b>Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction[C]</b>//Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI. 2020. [Link](https://www.ijcai.org/Proceedings/2020/640)
-
 * Li W, Bao R, Harimoto K, et al. <b>Modeling the stock relation with graph network for overnight stock movement prediction[C]</b>//Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI. 2020. [Link](https://www.ijcai.org/Proceedings/2020/626) [Code](https://github.com/liweitj47/overnight-stock-movement-prediction)
- 
 * Liu G, Mao Y, Sun Q, et al. <b>Multi-scale Two-way Deep Neural Network for Stock Trend Prediction[C]</b>//Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI. 2020. [Link](https://www.ijcai.org/Proceedings/2020/628) [Code](https://github.com/marscrazy/MTDNN)
