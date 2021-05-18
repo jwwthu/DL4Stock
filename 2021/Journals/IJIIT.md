@@ -1,0 +1,1 @@
+* Appati J K, Denwar I W, Owusu E, et al. <b>Construction of an ensemble scheme for stock price prediction using deep learning techniques[J]</b>. International Journal of Intelligent Information Technologies (IJIIT), 2021, 17(2): 72-95. [Link](https://www.igi-global.com/article/construction-of-an-ensemble-scheme-for-stock-price-prediction-using-deep-learning-techniques/277073)

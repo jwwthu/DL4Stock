@@ -1,0 +1,1 @@
+* Xu Y L, Calvi G G, Mandic D P. <b>Tensor-Train Recurrent Neural Networks for Interpretable Multi-Way Financial Forecasting[J]</b>. IJCNN, 2021. [Link](https://arxiv.org/abs/2105.04983)

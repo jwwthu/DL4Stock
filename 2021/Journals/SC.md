@@ -1,0 +1,1 @@
+* Farahani M S, Hajiagha S H R. <b>Forecasting stock price using integrated artificial neural network and metaheuristic algorithms compared to time series models[J]</b>. Soft Computing, 2021: 1-31. [Link](https://link.springer.com/article/10.1007/s00500-021-05775-5)

@@ -1,0 +1,1 @@
+* Kim S, Kim H. <b>Deep asset allocation for trend following investing[J]</b>. Journal of Experimental & Theoretical Artificial Intelligence, 2021: 1-21. [Link](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2021.1908429)

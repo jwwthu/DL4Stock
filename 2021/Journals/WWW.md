@@ -1,0 +1,1 @@
+* Ni H, Wang S, Cheng P. <b>A hybrid approach for stock trend prediction based on tweets embedding and historical prices[J]</b>. World Wide Web, 2021: 1-20. [Link](https://link.springer.com/article/10.1007/s11280-021-00880-9)

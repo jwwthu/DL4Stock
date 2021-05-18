@@ -1,0 +1,1 @@
+* Kumar C S. <b>HYBRID MODELS FOR INTRADAY STOCK PRICE FORECASTING BASED ON ARTIFICIAL NEURAL NETWORKS AND METAHEURISTIC ALGORITHMS[J]</b>. Pattern Recognition Letters, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S0167865521001239)

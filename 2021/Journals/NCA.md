@@ -1,1 +1,3 @@
+* Livieris I E, Stavroyiannis S, Iliadis L, et al. <b>Smoothing and stationarity enforcement framework for deep learning time-series forecasting[J]</b>. Neural Computing and Applications, 2021: 1-15. [Link](https://link.springer.com/article/10.1007/s00521-021-06043-1)
 * Singh S, Parmar K S, Kumar J. <b>Soft computing model coupled with statistical models to estimate future of stock market[J]</b>. Neural Computing and Applications, 1-19. [Link](https://link.springer.com/article/10.1007/s00521-020-05506-1)
+* Zafeiriou T, Kalles D. <b>Ultra-short-term trading system using a neural network-based ensemble of financial technical indicators[J]</b>. Neural Computing and Applications, 2021: 1-26. [Link](https://link.springer.com/article/10.1007/s00521-021-05945-4)

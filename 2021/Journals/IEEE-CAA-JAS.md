@@ -1,0 +1,1 @@
+* Hou X, Wang K, Zhong C, et al. <b>ST-Trader: A Spatial-Temporal Deep Neural Network for Modeling Stock Market Movement[J]</b>. IEEE/CAA Journal of Automatica Sinica, 2021, 8(5): 1015-1024. [Link](https://ieeexplore.ieee.org/abstract/document/9395542/)

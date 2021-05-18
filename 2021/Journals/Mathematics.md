@@ -1,0 +1,1 @@
+* Zhang X, Liu S, Zheng X. <b>Stock Price Movement Prediction Based on a Deep Factorization Machine and the Attention Mechanism[J]</b>. Mathematics, 2021, 9(8): 800. [Link](https://www.mdpi.com/1063264)

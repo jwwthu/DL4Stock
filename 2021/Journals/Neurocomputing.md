@@ -1,0 +1,2 @@
+* Ma C, Zhang J, Liu J, et al. <b>A parallel multi-module deep reinforcement learning algorithm for stock trading[J]</b>. Neurocomputing, 2021, 449: 290-302. [Link](https://www.sciencedirect.com/science/article/pii/S0925231221005233)
+* Sharma S, Elvira V, Chouzenoux E, et al. <b>Recurrent dictionary learning for state-space models with an application in stock forecasting[J]</b>. Neurocomputing, 2021, 450: 1-13. [Link](https://www.sciencedirect.com/science/article/pii/S0925231221005038)

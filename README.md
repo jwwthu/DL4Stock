@@ -109,6 +109,8 @@ If you find this repository helpful, you may consider cite our work:
 * Wireless Communications and Mobile Computing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/WCMC.md)
 
 ## Conferences
+* AAAI - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/AAAI.md)
+
 * BigData - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/BigData.md)
 
 * CIKM - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/CIKM.md)
@@ -121,7 +123,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * IJCAI - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCAI.md)
 
-* IJCNN - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCNN.md)
+* IJCNN - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCNN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCNN.md)
 
 * SIGIR - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/SIGIR.md)
 

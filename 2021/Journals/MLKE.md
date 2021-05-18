@@ -1,0 +1,1 @@
+* Abdel-Karim B M, Benlian A, Hinz O. <b>The Predictive Value of Data from Virtual Investment Communities[J]</b>. Machine Learning and Knowledge Extraction, 2021, 3(1): 1-13. [Link](https://www.mdpi.com/2504-4990/3/1/1)

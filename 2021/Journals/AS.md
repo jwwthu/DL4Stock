@@ -1,0 +1,1 @@
+* Yu X, Li D. <b>Important Trading Point Prediction Using a Hybrid Convolutional Recurrent Neural Network[J]</b>. Applied Sciences, 2021, 11(9): 3984. [Link](https://www.mdpi.com/2076-3417/11/9/3984)

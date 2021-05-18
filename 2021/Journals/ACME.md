@@ -1,0 +1,1 @@
+* Kumar G, Jain S, Singh U P. Stock market forecasting using computational intelligence: A survey[J]. Archives of Computational Methods in Engineering, 2021: 1069–1101. [Link](https://link.springer.com/article/10.1007/s11831-020-09413-5)

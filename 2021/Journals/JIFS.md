@@ -1,0 +1,1 @@
+* Xie W, Metawa N. <b>Financial stock market forecasting based on intelligent support vector machine regression model[J]</b>. Journal of Intelligent & Fuzzy Systems (Preprint): 1-10, 2021. [Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs189839)

@@ -1,2 +1,3 @@
 * Hung H C, Chuang Y J, Wu M C. <b>Customizable and committee data mining framework for stock trading[J]</b>. Applied Soft Computing, 2021: 107277. [Link](https://www.sciencedirect.com/science/article/pii/S1568494621002003)
+* Moghaddam A H, Momtazi S. <b>Image processing meets time series analysis: Predicting Forex profitable technical pattern positions[J]</b>. Applied Soft Computing, 2021: 107460. [Link](https://www.sciencedirect.com/science/article/pii/S1568494621003835)
 * Shi Y, Li W, Zhu L, et al. <b>Stock trading rule discovery with double deep Q-network[J]</b>. Applied Soft Computing, 2021: 107320. [Link](https://www.sciencedirect.com/science/article/pii/S156849462100243X)
