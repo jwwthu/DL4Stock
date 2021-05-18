@@ -12,9 +12,9 @@ If you find this repository helpful, you may consider cite our work:
 * ML for Trading - 2nd Edition [Link](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition)
 
 ## Journals
-* IEEE Access -[2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IEEE%20Access.md)
+* IEEE Access -[2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Access.md)
 
-* Information Fusion -[2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Information%20Fusion.md)
+* Information Fusion -[2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IF.md)
 
 * Symmetry -[2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Symmetry.md)
 
