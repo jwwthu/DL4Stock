@@ -74,6 +74,10 @@ If you find this repository helpful, you may consider cite our work:
 
 * Information Sciences - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IS.md)
 
+* Intelligent Data Analysis - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IDA.md)
+
+* Intelligent Decision Technologies - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IDT.md)
+
 * International Journal of Approximate Reasoning - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJAR.md)
 
 * International Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJF.md)
@@ -88,13 +92,15 @@ If you find this repository helpful, you may consider cite our work:
 
 * Journal of Computational and Applied Mathematics - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JCAM.md)
 
+* Journal of Computational Methods in Sciences and Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JCMSE.md)
+
 * Journal of Experimental & Theoretical Artificial Intelligence - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JETAI.md)
 
 * Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JF.md)
 
 * Journal of Information Technology Research - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JITR.md)
 
-* Journal of Intelligent & Fuzzy Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JIFS.md)
+* Journal of Intelligent & Fuzzy Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JIFS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JIFS.md)
 
 * Knowledge and Information Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KAIS.md)
 
@@ -133,6 +139,8 @@ If you find this repository helpful, you may consider cite our work:
 * Software: Practice and Experience - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SPE.md)
 
 * Symmetry - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Symmetry.md)
+
+* Web Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/WI.md)
 
 * Wireless Communications and Mobile Computing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/WCMC.md)
 

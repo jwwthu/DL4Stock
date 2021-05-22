@@ -1,0 +1,1 @@
+* Fang Z, Chiao C. <b>Research on prediction and recommendation of financial stocks based on K-means clustering algorithm optimization[J]</b>. Journal of Computational Methods in Sciences and Engineering, vol. Pre-press, no. Pre-press, pp. 1-9, 2021. [Link](https://content.iospress.com/articles/journal-of-computational-methods-in-sciences-and-engineering/jcm204716)

@@ -1,0 +1,1 @@
+* Livieris I E, Kotsilieris T, Stavroyiannis S, et al. <b>Forecasting stock price index movement using a constrained deep neural network training algorithm[J]</b>. Intelligent Decision Technologies, vol. 14, no. 3, pp. 313-323, 2020. [Link](https://content.iospress.com/articles/intelligent-decision-technologies/idt190035)

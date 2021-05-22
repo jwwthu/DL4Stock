@@ -1,0 +1,3 @@
+* Huang C F, Wu H C, Chen P C, et al. <b>Autonomous self-evolving forecasting models for price movement in high frequency trading: Evidence from Taiwan[J]</b>. Intelligent Data Analysis, 2020, 24(5): 1175-1206. [Link](https://content.iospress.com/articles/intelligent-data-analysis/ida194592)
+* Lv D, Wang D, Li M, et al. <b>DNN models based on dimensionality reduction for stock trading[J]</b>. Intelligent Data Analysis, 2020, 24(1): 19-45. [Link](https://content.iospress.com/articles/intelligent-data-analysis/ida184403)
+* Tai L, Hsu C. <b>On the profitability and errors of predicted prices from deep learning via program trading[J]</b>. Intelligent Data Analysis, 2020, 24(5): 1161-1173. [Link](https://content.iospress.com/articles/intelligent-data-analysis/ida194739)

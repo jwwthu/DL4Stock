@@ -1,0 +1,1 @@
+* Jiang H, Wang X, Zhu M. <b>Exploring propagation factors of social media moods for stock prices prediction[J]</b>. Web Intelligence, vol. 18, no. 3, pp. 191-204, 2020. [Link](https://content.iospress.com/articles/web-intelligence/web200441)
