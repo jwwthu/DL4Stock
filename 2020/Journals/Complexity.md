@@ -1,2 +1,4 @@
+* Lu W, Li J, Li Y, et al. <b>A CNN-LSTM-Based Model to Forecast Stock Prices[J]</b>. Complexity, 2020, 2020. [Link](https://www.hindawi.com/journals/complexity/2020/6622927/)
 * Yujun Y, Yimei Y, Jianhua X. <b>A Hybrid Prediction Method for Stock Price Using LSTM and Ensemble EMD[J]</b>. Complexity, 2020, 2020. [Link](https://www.hindawi.com/journals/complexity/2020/6431712/)
 * Teng X, Wang T, Zhang X, et al. <b>Enhancing stock price trend prediction via a time-sensitive data augmentation method[J]</b>. Complexity, 2020, 2020. [Link](https://www.hindawi.com/journals/complexity/2020/6737951/)
+* Štifanić D, Musulin J, Miočević A, et al. <b>Impact of covid-19 on forecasting stock prices: an integration of stationary wavelet transform and bidirectional long short-term memory[J]</b>. Complexity, 2020, 2020. [Link](https://www.hindawi.com/journals/complexity/2020/1846926/)

@@ -1,0 +1,1 @@
+* Dai Z, Zhou H, Dong X, et al. <b>Forecasting Stock Market Volatility: A Combination Approach[J]</b>. Discrete Dynamics in Nature and Society, 2020, 2020. [Link](https://www.hindawi.com/journals/ddns/2020/1428628/)

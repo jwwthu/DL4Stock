@@ -46,6 +46,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * Digital Signal Processing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/DSP.md)
 
+* Discrete Dynamics in Nature and Society - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/DDNS.md)
+
 * Engineering Science and Technology, an International Journal - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/EST.md)
 
 * Entropy - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Entropy.md)
