@@ -1,0 +1,1 @@
+* Tsantekidis A, Passalis N, Toufa A S, et al. <b>Price Trailing for Financial Trading Using Deep Reinforcement Learning[J]</b>. IEEE Transactions on Neural Networks and Learning Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9112694/)

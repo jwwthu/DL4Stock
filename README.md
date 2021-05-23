@@ -70,6 +70,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * IEEE Intelligent Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IEEE-IS.md)
 
+* IEEE Transactions on Neural Networks and Learning Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TNNLS.md)
+
 * IEEE/CAA Journal of Automatica Sinica - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IEEE-CAA-JAS.md)
 
 * Information Fusion - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IF.md)
@@ -81,6 +83,8 @@ If you find this repository helpful, you may consider cite our work:
 * Intelligent Decision Technologies - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IDT.md)
 
 * International Journal of Approximate Reasoning - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJAR.md)
+
+* International Journal of Computational Intelligence Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJCIS.md)
 
 * International Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJF.md)
 
@@ -100,9 +104,13 @@ If you find this repository helpful, you may consider cite our work:
 
 * Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JF.md)
 
+* Journal of Information and Telecommunication - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JIT.md)
+
 * Journal of Information Technology Research - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JITR.md)
 
 * Journal of Intelligent & Fuzzy Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JIFS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JIFS.md)
+
+* Journal of Signal Processing Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JSPS.md)
 
 * Knowledge and Information Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KAIS.md)
 
@@ -141,6 +149,8 @@ If you find this repository helpful, you may consider cite our work:
 * Software: Practice and Experience - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SPE.md)
 
 * Symmetry - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Symmetry.md)
+
+* The Journal of Supercomputing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JS.md)
 
 * Web Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/WI.md)
 

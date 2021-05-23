@@ -1,0 +1,2 @@
+* Pang X, Zhou Y, Wang P, et al. <b>An innovative neural network approach for stock market prediction[J]</b>. The Journal of Supercomputing, 2020, 76(3): 2098-2118. [Link](https://link.springer.com/article/10.1007/s11227-017-2228-y)
+* Lee S I, Yoo S J. <b>Multimodal deep learning for finance: integrating and forecasting international stock markets[J]<b>. The Journal of Supercomputing, 2020, 76(10): 8294-8312. [Link](https://link.springer.com/article/10.1007/s11227-019-03101-3)

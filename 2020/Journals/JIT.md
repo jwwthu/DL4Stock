@@ -1,0 +1,1 @@
+* Nemes L, Kiss A. <b>Prediction of stock values changes using sentiment analysis of stock news headlines[J]</b>. Journal of Information and Telecommunication, 2021: 1-20. [Link](https://www.tandfonline.com/doi/full/10.1080/24751839.2021.1874252)

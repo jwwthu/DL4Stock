@@ -1,0 +1,1 @@
+* Passalis N, Kanniainen J, Gabbouj M, et al. <b>Forecasting Financial Time Series Using Robust Deep Adaptive Input Normalization[J]</b>. Journal of Signal Processing Systems, 2021: 1-17. [Link](https://link.springer.com/article/10.1007/s11265-020-01624-0)
