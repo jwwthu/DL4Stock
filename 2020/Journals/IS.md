@@ -1,0 +1,1 @@
+* Wu X, Chen H, Wang J, et al. <b>Adaptive stock trading strategies with deep reinforcement learning methods[J]</b>. Information Sciences, 2020, 538: 142-158. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520304692)

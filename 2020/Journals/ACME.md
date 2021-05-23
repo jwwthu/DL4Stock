@@ -1,0 +1,1 @@
+* Thakkar A, Chaudhari K. <b>A comprehensive survey on portfolio optimization, stock price and trend prediction using particle swarm optimization[J]</b>. Archives of Computational Methods in Engineering, 2020: 1-32. [Link](https://link.springer.com/article/10.1007/s11831-020-09448-8)

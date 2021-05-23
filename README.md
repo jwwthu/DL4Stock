@@ -26,7 +26,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Arabian Journal for Science and Engineering - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AJSE.md)
 
-* Archives of Computational Methods in Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ACME.md)
+* Archives of Computational Methods in Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ACME.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ACME.md)
 
 * Axioms - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Axioms.md)
 
@@ -76,7 +76,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Information Fusion - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IF.md)
 
-* Information Sciences - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IS.md)
+* Information Sciences - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IS.md)
 
 * Intelligent Data Analysis - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IDA.md)
 
