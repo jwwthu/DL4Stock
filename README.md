@@ -70,6 +70,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * IEEE Intelligent Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IEEE-IS.md)
 
+* IEEE Transactions on Emerging Topics in Computational Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TETCI.md) 
+
 * IEEE Transactions on Neural Networks and Learning Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TNNLS.md)
 
 * IEEE/CAA Journal of Automatica Sinica - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IEEE-CAA-JAS.md)
@@ -100,7 +102,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Journal of Computational Methods in Sciences and Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JCMSE.md)
 
-* Journal of Experimental & Theoretical Artificial Intelligence - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JETAI.md)
+* Journal of Experimental & Theoretical Artificial Intelligence - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JETAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JETAI.md)
 
 * Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JF.md)
 

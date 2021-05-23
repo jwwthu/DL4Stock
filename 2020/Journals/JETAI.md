@@ -1,0 +1,1 @@
+* Khuwaja P, Khowaja S A, Khoso I, et al. <b>Prediction of stock movement using phase space reconstruction and extreme learning machines[J]</b>. Journal of Experimental & Theoretical Artificial Intelligence, 2020, 32(1): 59-79. [Link](https://www.tandfonline.com/doi/full/10.1080/0952813X.2019.1620870)

@@ -1,0 +1,1 @@
+* Lin Y F, Huang T M, Chung W H, et al. <b>Forecasting fluctuations in the financial index using a recurrent neural network based on price features[J]</b>. IEEE Transactions on Emerging Topics in Computational Intelligence, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9003207/)
