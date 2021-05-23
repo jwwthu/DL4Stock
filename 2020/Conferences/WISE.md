@@ -1,0 +1,1 @@
+* Tang N, Shen Y, Yao J. <b>Learning to Fuse Multiple Semantic Aspects from Rich Texts for Stock Price Prediction[C]</b>//International Conference on Web Information Systems Engineering. Springer, Cham, 2020: 65-81. [Link](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_5)

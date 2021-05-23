@@ -171,6 +171,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * ICML - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICML.md)
 
+* ICTAI - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICTAI.md)
+
 * IJCAI - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCAI.md)
 
 * IJCNN - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCNN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCNN.md)
@@ -178,5 +180,7 @@ If you find this repository helpful, you may consider cite our work:
 * SIGIR - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/SIGIR.md)
 
 * SSCI - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/SSCI.md)
+
+* WISE - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/WISE.md)
 
 * WWW - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/WWW.md)
