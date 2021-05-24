@@ -1,0 +1,1 @@
+* Cao B, Zhao J, Lv Z, et al. <b>Multiobjective evolution of fuzzy rough neural network via distributed parallelism for stock prediction[J]</b>. IEEE Transactions on Fuzzy Systems, 2020, 28(5): 939-952. [Link](https://ieeexplore.ieee.org/abstract/document/8986574/)

@@ -1,1 +1,2 @@
+* Fu Z, Xu W, Hu R, et al. <b>MHieR-encoder: Modelling the high-frequency changes across stocks[J]</b>. Knowledge-Based Systems, 2021: 107092. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121003555)
 * Ayala J, García-Torres M, Noguera J L V, et al. <b>Technical analysis strategy optimization using a machine learning approach in stock market indices[J]</b>. Knowledge-Based Systems, 2021: 107119. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121003828)

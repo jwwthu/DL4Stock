@@ -1,0 +1,6 @@
+* Chen Y, Hao Y. <b>A novel framework for stock trading signals forecasting[J]</b>. Soft Computing, 2020, 24(16): 12111-12130. [Link](https://link.springer.com/article/10.1007/s00500-019-04650-8)
+* Qiu Y, Yang H Y, Lu S, et al. <b>A novel hybrid model based on recurrent neural networks for stock market timing[J]</b>. Soft Computing, 2020: 1-18. [Link](https://link.springer.com/article/10.1007/s00500-020-04862-3)
+* Cao J, Wang J. <b>Exploration of stock index change prediction model based on the combination of principal component analysis and artificial neural network[J]</b>. Soft Computing, 2020, 24(11): 7851-7860. [Link](https://link.springer.com/article/10.1007/s00500-019-03918-3)
+* Koppula K, Kedukodi B S, Kuncham S P. <b>Markov frameworks and stock market decision making[J]</b>. Soft Computing, 2020, 24: 16413-16424. [Link](https://link.springer.com/article/10.1007/s00500-020-04950-4)
+* Xu Z, Zhang J, Wang J, et al. <b>Prediction research of financial time series based on deep learning[J]</b>. Soft Computing, 2020: 1-18. [Link](https://link.springer.com/article/10.1007/s00500-020-04788-w)
+* Parray I R, Khurana S S, Kumar M, et al. <b>Time series data analysis of stock price movement using machine learning techniques[J]</b>. Soft Computing, 2020, 24(21): 16509-16517. [Link](https://link.springer.com/article/10.1007/s00500-020-04957-x)

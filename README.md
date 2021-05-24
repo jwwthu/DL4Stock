@@ -50,6 +50,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * Discrete Dynamics in Nature and Society - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/DDNS.md)
 
+* Engineering Applications of Artificial Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/EAAI.md)
+
 * Engineering Science and Technology, an International Journal - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/EST.md)
 
 * Entropy - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Entropy.md)
@@ -72,7 +74,9 @@ If you find this repository helpful, you may consider cite our work:
 
 * IEEE Intelligent Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IEEE-IS.md)
 
-* IEEE Transactions on Emerging Topics in Computational Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TETCI.md) 
+* IEEE Transactions on Emerging Topics in Computational Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TETCI.md)
+
+* IEEE Transactions on Fuzzy Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TFS.md)
 
 * IEEE Transactions on Neural Networks and Learning Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TNNLS.md)
 
@@ -148,7 +152,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Security and Communication Networks - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SCN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SCN.md)
 
-* Soft Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SC.md)
+* Soft Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SC.md)
 
 * Software: Practice and Experience - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SPE.md)
 

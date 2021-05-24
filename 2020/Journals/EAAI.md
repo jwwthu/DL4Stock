@@ -1,0 +1,1 @@
+* Kia A N, Haratizadeh S, Shouraki S B. <b>Network-based direction of movement prediction in financial markets[J]</b>. Engineering Applications of Artificial Intelligence, 2020, 88: 103340. [Link](https://www.sciencedirect.com/science/article/pii/S0952197619302829)
