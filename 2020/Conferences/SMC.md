@@ -1,0 +1,1 @@
+* Chen Y H, Chang C H, Kuo S Y, et al. <b>A Dynamic Stock Trading System Using GQTS And Moving Average In The US Stock Market[C]</b>//2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2020: 848-853. [Link](https://ieeexplore.ieee.org/abstract/document/9283390)

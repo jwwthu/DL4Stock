@@ -1,0 +1,1 @@
+* Sawhney R, Agarwal S, Wadhwa A, et al. <b>Spatiotemporal Hypergraph Convolution Network for Stock Movement Forecasting[C]</b>//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020: 482-491. [Link](https://ieeexplore.ieee.org/abstract/document/9338303)

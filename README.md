@@ -167,7 +167,7 @@ If you find this repository helpful, you may consider cite our work:
 * World Wide Web - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/WWW.md)
 
 ## Conferences
-* AAAI - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/AAAI.md)
+* AAAI - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/AAAI.md) | - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/AAAI.md)
 
 * BigData - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/BigData.md)
 
@@ -176,6 +176,8 @@ If you find this repository helpful, you may consider cite our work:
 * EMNLP - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/EMNLP.md)
 
 * FUSION - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/FUSION.md)
+
+* ICDM - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICDM.md)
 
 * ICML - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICML.md)
 
@@ -186,6 +188,8 @@ If you find this repository helpful, you may consider cite our work:
 * IJCNN - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCNN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCNN.md)
 
 * SIGIR - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/SIGIR.md)
+
+* SMC - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/SMC.md)
 
 * SSCI - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/SSCI.md)
 

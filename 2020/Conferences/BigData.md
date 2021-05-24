@@ -1,1 +1,3 @@
 * Dong Y, Yan D, Almudaifer A I, et al. <b>BELT: A Pipeline for Stock Price Prediction Using News[C]</b>//2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020: 1137-1146. [Link](https://ieeexplore.ieee.org/abstract/document/9378345/)
+* Caron M, Müller O. <b>Hardening Soft Information: A Transformer-Based Approach to Forecasting Stock Return Volatility[C]</b>//2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020: 4383-4391. [Link](https://ieeexplore.ieee.org/abstract/document/9378134)
+* Ruan J, Wu W, Luo J. <b>Stock Price Prediction Under Anomalous Circumstances[C]//2020 IEEE International Conference on Big Data (Big Data)</b>. IEEE, 2020: 4787-4794. [Link](https://ieeexplore.ieee.org/abstract/document/9378030/)
