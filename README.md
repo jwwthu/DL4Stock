@@ -16,6 +16,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * AI Communications - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI-Communications.md)
 
+* Annals of Data Science - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ADS.md)
+
 * Applied Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI.md)
 
 * Applied Sciences - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AS.md)

@@ -1,0 +1,3 @@
+* de Pauli S T Z, Kleina M, Bonat W H. <b>Comparing artificial neural network architectures for Brazilian stock market prediction[J]</b>. Annals of Data Science, 2020, 7(4): 613-628. [Link](https://link.springer.com/article/10.1007/s40745-020-00305-w)
+* De S, Dey A K, Gouda D K. <b>Construction of confidence interval for a univariate stock price signal predicted through Long Short Term Memory Network[J]</b>. Annals of Data Science, 2020: 1-14. [Link](https://link.springer.com/article/10.1007/s40745-020-00307-8)
+* Kumar B S, Ravi V, Miglani R. <b>Predicting Indian stock market using the psycho-linguistic features of financial news[J]</b>. Annals of Data Science, 2020: 1-42. [Link](https://link.springer.com/article/10.1007/s40745-020-00272-2)

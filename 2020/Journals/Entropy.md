@@ -1,4 +1,5 @@
 * Wu D, Wang X, Wu S. <b>A Hybrid Method Based on Extreme Learning Machine and Wavelet Transform Denoising for Stock Prediction[J]</b>. Entropy, 2021, 23(4): 440. [Link](https://www.mdpi.com/1099-4300/23/4/440) [Data](https://github.com/justbeat99/400_stocks_data_zips.git)
 * Wu D, Wang X, Su J, et al. <b>A Labeling Method for Financial Time Series Prediction Based on Trends[J]</b>. Entropy, 2020, 22(10): 1162. [Link](https://www.mdpi.com/1099-4300/22/10/1162) [Data](https://github.com/justbeat99/Daily-Stock-Data-Set)
 * Nabipour M, Nayyeri P, Jabani H, et al. <b>Deep learning for stock market prediction[J]</b>. Entropy, 2020, 22(8): 840. [Link](https://www.mdpi.com/1099-4300/22/8/840)
+* Börjesson L, Singull M. <b>Forecasting Financial Time Series through Causal and Dilated Convolutional Neural Networks[J]</b>. Entropy, 2020, 22(10): 1094. [Link](https://www.mdpi.com/1099-4300/22/10/1094)
 * Ecer F, Ardabili S, Band S S, et al. <b>Training Multilayer Perceptron with Genetic Algorithms and Particle Swarm Optimization for Modeling Stock Price Index Prediction[J]</b>. Entropy, 2020, 22(11): 1239. [Link](https://www.mdpi.com/1099-4300/22/11/1239)
