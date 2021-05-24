@@ -78,11 +78,15 @@ If you find this repository helpful, you may consider cite our work:
 
 * IEEE Transactions on Fuzzy Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TFS.md)
 
+* IEEE Transactions on Knowledge and Data Engineering - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TKDE.md)
+
 * IEEE Transactions on Neural Networks and Learning Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TNNLS.md)
 
 * IEEE/CAA Journal of Automatica Sinica - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IEEE-CAA-JAS.md)
 
 * Information Fusion - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IF.md)
+
+* Information Processing & Management - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IPM.md)
 
 * Information Sciences - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IS.md)
 
@@ -157,6 +161,8 @@ If you find this repository helpful, you may consider cite our work:
 * Software: Practice and Experience - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SPE.md)
 
 * Symmetry - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Symmetry.md)
+
+* The Computer Journal - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Computer.md)
 
 * The Journal of Supercomputing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JS.md)
 

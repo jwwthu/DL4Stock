@@ -1,0 +1,1 @@
+* Li Q, Tan J, Wang J, et al. <b>A multimodal event-driven lstm model for stock prediction using online news[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8966989/) [Code](https://github.com/Tanny16/Tensor-based-eLSTM)

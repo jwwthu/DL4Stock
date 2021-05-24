@@ -1,0 +1,1 @@
+* Li X, Wu P, Wang W. <b>Incorporating stock prices and news sentiments for stock market prediction: A case of Hong Kong[J]</b>. Information Processing & Management, 2020, 57(5): 102212. [Link](https://www.sciencedirect.com/science/article/pii/S0306457319307952)

@@ -1,0 +1,1 @@
+* Gandhmal D P, Kumar K. <b>Wrapper-Enabled Feature Selection and CPLM-Based NARX Model for Stock Market Prediction[J]</b>. The Computer Journal, 2021, 64(2): 169-184. [Link](https://academic.oup.com/comjnl/article-abstract/64/2/169/5894133)
