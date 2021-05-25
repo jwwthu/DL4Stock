@@ -1,0 +1,2 @@
+* Ito T, Masuda M, Naito A, et al. <b>Application of Google Trends‐based sentiment index in exchange rate prediction[J]</b>. Journal of Forecasting. 2021; 1– 25. [Link](https://onlinelibrary.wiley.com/doi/10.1002/for.2762)
+* Kong A, Zhu H, Azencott R. <b>Predicting intraday jumps in stock prices using liquidity measures and technical indicators[J]</b>. Journal of Forecasting, 2021, 40(3): 416-438. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/for.2721)

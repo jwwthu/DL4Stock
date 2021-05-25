@@ -1,3 +1,4 @@
-* Wu H, Long H, Wang Y, et al. <b>Stock index forecasting: A new fuzzy time series forecasting method[J]</b>. Journal of Forecasting, 2020. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2734)
-
-* Salisu A A, Ogbonna A E, Adediran I. <b>Stock‐induced Google trends and the predictability of sectoral stock returns[J]</b>. Journal of Forecasting, 2020. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2722)
+* Wu H, Long H, Wang Y, et al. <b>Stock index forecasting: A new fuzzy time series forecasting method[J]</b>. Journal of Forecasting. 2020; 1– 14. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/for.2734)
+* Li X, Tang P. <b>Stock index prediction based on wavelet transform and FCD‐MLGRU[J]</b>. Journal of Forecasting, 2020, 39(8): 1229-1237. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/for.2682)
+* Salisu A A, Ogbonna A E, Adediran I. <b>Stock‐induced Google trends and the predictability of sectoral stock returns[J]</b>. Journal of Forecasting. 2021; 40: 327– 345. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/for.2722)
+* Jin Z, Guo K, Sun Y, et al. <b>The industrial asymmetry of the stock price prediction with investor sentiment: Based on the comparison of predictive effects with SVR[J]</b>. Journal of Forecasting, 2020, 39(7): 1166-1178. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/for.2681)
