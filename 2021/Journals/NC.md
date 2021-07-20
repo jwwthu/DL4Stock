@@ -1,0 +1,1 @@
+* Colliri T, Zhao L. <b>Stock market trend detection and automatic decision-making through a network-based classification model[J]</b>. Natural Computing, 2021: 1-14. [Link](https://link.springer.com/article/10.1007/s11047-020-09829-9)

@@ -1,0 +1,1 @@
+* Dong W, Zhao C. <b>Stock price forecasting based on Hausdorff fractional grey model with convolution and neural network[J]</b>. Mathematical Biosciences and Engineering, 2021, 18(4): 3323-3347. [Link](http://aimspress.com/article/doi/10.3934/mbe.2021166)

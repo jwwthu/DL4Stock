@@ -1,0 +1,1 @@
+* Sawhney R, Agarwal S, Wadhwa A, et al. <b>Exploring the Scale-Free Nature of Stock Markets: Hyperbolic Graph Learning for Algorithmic Trading[C]</b>//Proceedings of the Web Conference 2021. 2021: 11-22. [Link](https://dl.acm.org/doi/abs/10.1145/3442381.3450095)

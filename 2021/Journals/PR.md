@@ -1,0 +1,1 @@
+* Feng S, Xu C, Zuo Y, et al. <b>Relation-Aware Dynamic Attributed Graph Attention Network for Stocks Recommendation[J]</b>. Pattern Recognition, 2021: 108119. [Link](https://www.sciencedirect.com/science/article/pii/S003132032100306X)

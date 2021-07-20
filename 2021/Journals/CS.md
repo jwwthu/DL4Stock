@@ -1,0 +1,1 @@
+* Wu S, Liu Y, Zou Z, et al. <b>S_I_LSTM: stock price prediction based on multiple data sources and sentiment analysis[J]</b>. Connection Science, 2021: 1-19. [Link](https://www.tandfonline.com/doi/abs/10.1080/09540091.2021.1940101)

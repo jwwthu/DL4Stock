@@ -1,1 +1,2 @@
 * Chen W, Jiang M, Zhang W G, et al. <b>A novel graph convolutional feature based convolutional neural network for stock trend prediction[J]</b>. Information Sciences, 2021, 556: 67-94. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520312342)
+* Wang Y, Wang L, Yang F, et al. <b>Advantages of direct input-to-output connections in neural networks: The Elman network for stock index forecasting[J]</b>. Information Sciences, 2021, 547: 1066-1079. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520309415)

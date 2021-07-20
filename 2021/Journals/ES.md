@@ -1,0 +1,1 @@
+* Tsinaslanidis P, Guijarro F. <b>What makes trading strategies based on chart pattern recognition profitable?[J]</b>. Expert Systems, 2021, 38(5): e12596. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12596)

@@ -1,0 +1,1 @@
+* Wu D, Wang X, Wu S. <b>A Hybrid Method Based on Extreme Learning Machine and Wavelet Transform Denoising for Stock Prediction[J]</b>. Entropy, 2021, 23(4): 440. [Link](https://www.mdpi.com/1065904) [Data](https://github.com/justbeat99/400_stocks_data_zips.git)

@@ -1,0 +1,1 @@
+* Sawhney R, Wadhwa A, Agarwal S, et al. <b>Quantitative Day Trading from Natural Language using Reinforcement Learning[C]</b>//Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2021: 4018-4030. [Link](https://www.aclweb.org/anthology/2021.naacl-main.316/)

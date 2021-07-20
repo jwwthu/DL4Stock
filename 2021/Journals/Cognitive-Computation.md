@@ -1,0 +1,1 @@
+* Li X, Wu P. <b>Stock price prediction incorporating market style clustering[J]</b>. Cognitive Computation, 2021: 1-18. [Link](https://link.springer.com/article/10.1007/s12559-021-09820-1)

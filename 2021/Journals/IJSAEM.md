@@ -1,0 +1,1 @@
+* Anuradha J. <b>Big data based stock trend prediction using deep CNN with reinforcement-LSTM model[J]</b>. International Journal of System Assurance Engineering and Management, 2021: 1-11. [Link](https://link.springer.com/article/10.1007/s13198-021-01074-2)

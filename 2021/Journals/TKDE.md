@@ -1,0 +1,1 @@
+* Hsu Y L, Tsai Y C, Li C T. <b>FinGAT: Financial Graph Attention Networks for Recommending Top-K Profitable Stocks[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9431685/) [Code](https://github.com/Roytsai27/Financial-GraphAttention)

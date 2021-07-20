@@ -1,0 +1,2 @@
+* Peng Y, Albuquerque P H M, Kimura H, et al. <b>Feature selection and deep neural networks for stock price direction forecasting using technical analysis indicators[J]</b>. Machine Learning with Applications, 2021: 100060. [Link](https://www.sciencedirect.com/science/article/pii/S266682702100030X)
+* Xu X, Zhang Y. <b>Individual time series and composite forecasting of the Chinese stock index[J]</b>. Machine Learning with Applications, 2021, 5: 100035. [Link](https://www.sciencedirect.com/science/article/pii/S2666827021000165)

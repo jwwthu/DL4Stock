@@ -1,0 +1,1 @@
+* Budiharto W. <b>Data science approach to stock prices forecasting in Indonesia during Covid-19 using Long Short-Term Memory (LSTM)[J]</b>. Journal of big data, 2021, 8(1): 1-9. [Link](https://link.springer.com/article/10.1186/s40537-021-00430-0)

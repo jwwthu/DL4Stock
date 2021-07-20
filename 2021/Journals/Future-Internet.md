@@ -1,0 +1,1 @@
+* Theodorou T I, Zamichos A, Skoumperdis M, et al. <b>An AI-Enabled Stock Prediction Platform Combining News and Social Sensing with Financial Statements[J]</b>. Future Internet, 2021, 13(6): 138. [Link](https://www.mdpi.com/1118420)

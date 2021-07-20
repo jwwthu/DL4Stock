@@ -1,1 +1,2 @@
+* Kyriakou I, Mousavi P, Nielsen J P, et al. <b>Short-Term Exuberance and long-term stability: A simultaneous optimization of stock return predictions for short and long horizons[J]</b>. Mathematics, 2021, 9(6): 620. [Link](https://www.mdpi.com/1034746)
 * Zhang X, Liu S, Zheng X. <b>Stock Price Movement Prediction Based on a Deep Factorization Machine and the Attention Mechanism[J]</b>. Mathematics, 2021, 9(8): 800. [Link](https://www.mdpi.com/1063264)

@@ -1,0 +1,1 @@
+* Sharma S, Majumdar A. <b>Sequential Transform Learning[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2021, 15(5): 1-18. [Link](https://dl.acm.org/doi/abs/10.1145/3447394)

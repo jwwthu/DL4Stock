@@ -1,0 +1,1 @@
+* Kumar G, Singh U P, Jain S. <b>Hybrid evolutionary intelligent system and hybrid time series econometric model for stock price forecasting[J]</b>. International Journal of Intelligent Systems, 2021. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22495)

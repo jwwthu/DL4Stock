@@ -1,0 +1,1 @@
+* Tsantekidis A, Passalis N, Tefas A. <b>Diversity-driven knowledge distillation for financial trading using Deep Reinforcement Learning[J]</b>. Neural Networks, 2021, 140: 193-202. [Link](https://www.sciencedirect.com/science/article/pii/S0893608021000769)
