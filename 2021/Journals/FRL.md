@@ -1,2 +1,3 @@
 * Ghosh P, Neufeld A, Sahoo J K. <b>Forecasting directional movements of stock prices for intraday trading using LSTM and random forests[J]</b>. Finance Research Letters, 2021: 102280. [Link](https://www.sciencedirect.com/science/article/pii/S1544612321003202) [Code](https://github.com/pushpendughosh/Stock-market-forecasting)
 * Liu Q, Tao Z, Tse Y, et al. <b>Stock market prediction with deep learning: The case of China[J]</b>. Finance Research Letters, 2021: 102209. [Link](https://www.sciencedirect.com/science/article/pii/S1544612321002762)
+* Salisu A A, Tchankam J P. <b>US Stock return predictability with high dimensional models[J]</b>. Finance Research Letters, 2021: 102194. [Link](https://www.sciencedirect.com/science/article/pii/S1544612321002646)

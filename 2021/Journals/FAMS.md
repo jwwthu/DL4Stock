@@ -1,0 +1,1 @@
+* Zhang Y, Li J, Wang H, et al. <b>Sentiment-Guided Adversarial Learning for Stock Price Prediction[J]</b>. Frontiers in Applied Mathematics and Statistics, 2021, 7: 8. [Link](https://www.frontiersin.org/articles/10.3389/fams.2021.601105/pdf) [Data](https://data.world/kike/nasdaq-100-tweets)

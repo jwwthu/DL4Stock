@@ -1,0 +1,1 @@
+* Niu H, Xu K. <b>A hybrid model combining variational mode decomposition and an attention-GRU network for stock price index forecasting[J]</b>. Mathematical Biosciences and Engineering, 2020, 17(6): 7151-7166. [Link](https://www.aimspress.com/fileOther/PDF/MBE/mbe-17-06-367.pdf)

@@ -1,1 +1,2 @@
 * Zhang W, Tao K, Li J, et al. <b>Modeling and Prediction of Stock Price with Convolutional Neural Network Based on Blockchain Interactive Information[J]</b>. Wireless Communications and Mobile Computing, 2020, 2020. [Link](https://www.hindawi.com/journals/wcmc/2020/6686181/)
+* Li H, Hua J, Li J, et al. <b>Stock forecasting model FS-LSTM based on the 5G Internet of things[J]</b>. Wireless Communications and Mobile Computing, 2020, 2020. [Link](https://www.hindawi.com/journals/wcmc/2020/7681209/)

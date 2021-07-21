@@ -1,0 +1,1 @@
+* Samal S, Dash R. <b>A TOPSIS-ELM framework for stock index price movement prediction[J]</b>. Intelligent Decision Technologies (Preprint): 1-19. [Link](https://content.iospress.com/articles/intelligent-decision-technologies/idt200013)

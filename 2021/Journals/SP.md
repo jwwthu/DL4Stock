@@ -1,2 +1,3 @@
 * Jamous R, ALRahhal H, El-Darieby M. <b>A New ANN-Particle Swarm Optimization with Center of Gravity (ANN-PSOCoG) Prediction Model for the Stock Market under the Effect of COVID-19[J]</b>. Scientific Programming, 2021, 2021. [Link](https://www.hindawi.com/journals/sp/2021/6656150/)
+* Yan Y, Yang D. <b>A Stock Trend Forecast Algorithm Based on Deep Neural Networks[J]</b>. Scientific Programming, 2021, 2021. [Link](https://www.hindawi.com/journals/sp/2021/7510641/)
 * Chen Y, Fang R, Liang T, et al. <b>Stock Price Forecast Based on CNN-BiLSTM-ECA Model[J]</b>. Scientific Programming, 2021, 2021. [Link](https://www.hindawi.com/journals/sp/2021/2446543/)

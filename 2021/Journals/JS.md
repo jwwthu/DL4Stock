@@ -1,0 +1,1 @@
+* Kocak C, Egrioglu E, Bas E. <b>A new deep intuitionistic fuzzy time series forecasting method based on long short-term memory[J]</b>. The Journal of Supercomputing, 2021, 77(6): 6178-6196. [Link](https://link.springer.com/article/10.1007/s11227-020-03503-8)

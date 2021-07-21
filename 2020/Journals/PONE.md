@@ -3,3 +3,4 @@
 * Qiu J, Wang B, Zhou C. <b>Forecasting stock prices with long-short term memory neural network based on attention mechanism[J]</b>. PloS one, 2020, 15(1): e0227222. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227222)
 * Ntakaris A, Kanniainen J, Gabbouj M, et al. <b>Mid-price prediction based on machine learning methods with technical and quantitative indicators[J]</b>. Plos one, 2020, 15(6): e0234107. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234107)
 * Liu S, Zhang X, Wang Y, et al. <b>Recurrent convolutional neural kernel model for stock price movement prediction[J]</b>. Plos one, 2020, 15(6): e0234206. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234206)
+* Ghorbani M, Chong E K P. <b>Stock price prediction using principal components[J]</b>. PloS one, 2020, 15(3): e0230124. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230124)

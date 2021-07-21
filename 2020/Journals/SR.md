@@ -1,0 +1,1 @@
+* Li Y, Mi Z, Jing W. <b>Incorporating textual network improves Chinese stock market analysis[J]</b>. Scientific Reports, 2020, 10(1): 1-10. [Link](https://www.nature.com/articles/s41598-020-77823-3)

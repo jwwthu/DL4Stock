@@ -1,1 +1,3 @@
+* Vismayaa V, Pooja K R, Alekhya A, et al. <b>Classifier based stock trading recommender systems for Indian stocks: An empirical evaluation[J]</b>. Computational Economics, 2020, 55(3): 901-923. [Link](https://link.springer.com/article/10.1007/s10614-019-09922-x)
 * Song Y, Lee J W, Lee J. <b>Development of Intelligent Stock Trading System Using Pattern Independent Predictor and Turning Point Matrix[J]</b>. Computational Economics, 2020: 1-12. [Link](https://link.springer.com/article/10.1007/s10614-020-10066-6)
+* Zhang J, Li L, Chen W. <b>Predicting stock price using two-stage machine learning techniques[J]</b>. Computational Economics, 2020: 1-25. [Link](https://link.springer.com/article/10.1007/s10614-020-10013-5)

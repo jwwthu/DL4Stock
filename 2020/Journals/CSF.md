@@ -1,1 +1,2 @@
+* Yuan Y, Zhang T. <b>Forecasting stock market in high and low volatility periods: a modified multifractal volatility approach[J]</b>. Chaos, Solitons & Fractals, 2020, 140: 110252. [Link](https://www.sciencedirect.com/science/article/pii/S0960077920306482)
 * Wang Z, Shang P. <b>Generalized entropy plane based on multiscale weighted multivariate dispersion entropy for financial time series[J]</b>. Chaos, Solitons & Fractals, 2020: 110473. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0960077920308651)

@@ -1,1 +1,2 @@
+* Kurani A, Doshi P, Vakharia A, et al. <b>A Comprehensive Comparative Study of Artificial Neural Network (ANN) and Support Vector Machines (SVM) on Stock Forecasting[J]</b>. Annals of Data Science, 2021: 1-26. [Link](https://link.springer.com/article/10.1007/s40745-021-00344-x)
 * Karimuzzaman M, Islam N, Afroz S, et al. <b>Predicting stock market price of Bangladesh: a comparative study of linear classification models[J]</b>. Annals of Data Science, 2021, 8(1): 21-38. [Link](https://link.springer.com/article/10.1007/s40745-020-00318-5)
