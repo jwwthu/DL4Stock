@@ -118,11 +118,9 @@ If you find this repository helpful, you may consider cite our work:
 
 * Internet Research - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IR.md)
 
-* Journal of Big Data - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JBD.md)
-
 * Journal of Ambient Intelligence and Humanized Computing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JAIHC.md)
 
-* Journal of Big Data - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JBD.md)
+* Journal of Big Data - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JBD.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JBD.md)
 
 * Journal of Computational and Applied Mathematics - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JCAM.md)
 
