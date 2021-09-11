@@ -1,1 +1,2 @@
+* Mukherjee S, Sadhukhan B, Sarkar N, et al. <b>Stock market prediction using deep learning algorithms[J]</b>. CAAI Transactions on Intelligence Technology, 2021. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cit2.12059)
 * Yadav K, Yadav M, Saini S. <b>Stock values predictions using deep learning based hybrid models[J]</b>. CAAI Transactions on Intelligence Technology, 2021. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cit2.12052) [Code](https://github.com/MilindYadav-97/Hybrid_FastRNN-for-stock-predictions)

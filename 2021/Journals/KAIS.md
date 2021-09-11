@@ -1,0 +1,1 @@
+* Chen J, Yang S, Zhang D, et al. <b>A turning point prediction method of stock price based on RVFL-GMDH and chaotic time series analysis[J]</b>. Knowledge and Information Systems, 2021: 1-26. [Link](https://link.springer.com/article/10.1007/s10115-021-01602-3)

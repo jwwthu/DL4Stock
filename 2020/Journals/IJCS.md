@@ -1,0 +1,1 @@
+* Ji X, Wang J, Yan Z. <b>A stock price prediction method based on deep learning technology[J]</b>. International Journal of Crowd Science, 2021. [Link](https://www.emerald.com/insight/content/doi/10.1108/IJCS-05-2020-0012/full/html)

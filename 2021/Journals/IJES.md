@@ -1,0 +1,1 @@
+* Goel H, Singh N P. <b>Dynamic prediction of Indian stock market: an artificial neural network approach[J]</b>. International Journal of Ethics and Systems, 2021. [Link](https://www.emerald.com/insight/content/doi/10.1108/IJOES-11-2020-0184/full/html)

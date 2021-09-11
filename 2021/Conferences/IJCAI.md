@@ -1,0 +1,2 @@
+* Wang H, Li S, Wang T, et al. <b>Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction[C]</b>. IJCAI, 2021. [Link](https://www.ijcai.org/proceedings/2021/508)
+* Zhao L, Li W, Bao R, et al. <b>Long-term, Short-term and Sudden Event: Trading Volume Movement Prediction with Graph-based Multi-view Modeling[C]</b>. IJCAI, 2021. [Link](https://arxiv.org/abs/2108.11318) [Code](https://github.com/lancopku/CGM)

@@ -1,0 +1,1 @@
+* Ray P, Ganguli B, Chakrabarti A. <b>A Hybrid Approach of Bayesian Structural Time Series With LSTM to Identify the Influence of News Sentiment on Short-Term Forecasting of Stock Price[J]</b>. IEEE Transactions on Computational Social Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9448324/)

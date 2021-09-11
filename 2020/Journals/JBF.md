@@ -1,0 +1,1 @@
+* Chun J, Ahn J, Kim Y, et al. <b>Using deep learning to develop a stock price prediction model based on individual investor emotions[J]</b>. Journal of Behavioral Finance, 2020: 1-10. [Link](https://www.tandfonline.com/doi/abs/10.1080/15427560.2020.1821686)

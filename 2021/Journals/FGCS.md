@@ -1,0 +1,1 @@
+* Yang S. <b>A novel study on deep learning framework to predict and analyze the financial time series information[J]</b>. Future Generation Computer Systems, 2021, 125: 812-819. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X2100279X) [Data](https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018)

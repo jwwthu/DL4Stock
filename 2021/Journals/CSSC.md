@@ -1,0 +1,1 @@
+* Shetty D K, Ismail B. <b>Forecasting stock prices using hybrid non-stationary time series model with ERNN[J]</b>. Communications in Statistics-Simulation and Computation, 2021: 1-13. [Link](https://www.tandfonline.com/doi/full/10.1080/03610918.2021.1872631)

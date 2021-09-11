@@ -1,0 +1,1 @@
+* Lin H, Zhou D, Liu W, et al. <b>Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport[C]</b>//Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021: 1017-1026. [Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467358)

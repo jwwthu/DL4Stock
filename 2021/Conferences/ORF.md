@@ -1,0 +1,1 @@
+* Namdari A, Durrani T S. <b>A multilayer feedforward perceptron model in neural networks for predicting stock market short-term trends[C]</b>//Operations Research Forum. Springer International Publishing, 2021, 2(3): 1-30. [Link](https://link.springer.com/article/10.1007/s43069-021-00071-2)

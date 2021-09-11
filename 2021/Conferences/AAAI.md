@@ -1,1 +1,2 @@
 * Cheng R, Li Q. <b>Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks[C]</b>. 2021. [Link](https://www.aaai.org/AAAI21Papers/AAAI-5328.ChengR.pdf) [Code](https://github.com/RuichengFIC/ADGAT)
+* Sawhney R, Agarwal S, Wadhwa A, et al. <b>Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(1): 497-504. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/16127)

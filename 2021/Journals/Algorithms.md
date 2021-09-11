@@ -1,0 +1,1 @@
+* Dey P, Hossain E, Hossain M, et al. <b>Comparative Analysis of Recurrent Neural Networks in Stock Price Prediction for Different Frequency Domains[J]</b>. Algorithms, 2021, 14(8): 251. [Link](https://www.mdpi.com/1999-4893/14/8/251) [Code](https://github.com/ehfahad/Comparative-Analysis-of-RNNs-in-Stock-Price-Prediction)

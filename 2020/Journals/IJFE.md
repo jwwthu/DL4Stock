@@ -1,0 +1,1 @@
+* Cipiloglu Yildiz Z, Yildiz S B. <b>A portfolio construction framework using LSTM‐based stock markets forecasting[J]</b>. International Journal of Finance & Economics, 2020. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijfe.2277)

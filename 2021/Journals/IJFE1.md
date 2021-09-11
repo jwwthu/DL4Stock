@@ -1,0 +1,1 @@
+* Jing N, Liu Q, Wang H. <b>Stock price prediction based on stock price synchronicity and deep learning[J]</b>. International Journal of Financial Engineering, 2021, 8(02): 2141010. [Link](https://www.worldscientific.com/doi/abs/10.1142/S2424786321410103)

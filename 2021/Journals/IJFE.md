@@ -1,0 +1,1 @@
+* Farid S, Tashfeen R, Mohsan T, et al. <b>Forecasting stock prices using a data mining method: Evidence from emerging market[J]</b>. International Journal of Finance & Economics, 2021. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijfe.2516)

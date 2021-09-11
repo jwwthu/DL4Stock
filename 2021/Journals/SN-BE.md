@@ -1,0 +1,1 @@
+* Islam S, Sikder M S, Hossain M F, et al. <b>Predicting the daily closing price of selected shares on the Dhaka Stock Exchange using machine learning techniques[J]</b>. SN Business & Economics, 2021, 1(4): 1-16. [Link](https://link.springer.com/article/10.1007/s43546-021-00065-6)

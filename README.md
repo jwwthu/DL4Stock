@@ -18,7 +18,13 @@ If you find this repository helpful, you may consider cite our work:
 
 * AI Communications - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI-Communications.md)
 
+* Algorithms - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Algorithms.md)
+
 * Annals of Data Science - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ADS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ADS.md)
+
+* Applied Artificial Intelligence - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AAI.md)
+
+* Applied Economics Letters - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AEL.md)
 
 * Applied Intelligence - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI.md)
 
@@ -41,6 +47,8 @@ If you find this repository helpful, you may consider cite our work:
 * China Communications - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/CC.md)
 
 * Cognitive Computation - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Cognitive-Computation.md)
+
+* Communications in Statistics-Simulation and Computation - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CSSC.md)
 
 * Complexity - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Complexity.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Complexity.md)
 
@@ -78,7 +86,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Frontiers in Applied Mathematics and Statistics - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/FAMS.md)
 
-* Future Generation Computer Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/FGCS.md)
+* Future Generation Computer Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/FGCS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/FGCS.md)
 
 * Future Internet - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Future-Internet.md)
 
@@ -87,6 +95,8 @@ If you find this repository helpful, you may consider cite our work:
 * IEEE Latin America Transactions - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IEEE-LAT.md)
 
 * IEEE Intelligent Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IEEE-IS.md)
+
+* IEEE Transactions on Computational Social Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/TCSS.md)
 
 * IEEE Transactions on Emerging Topics in Computational Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TETCI.md)
 
@@ -97,6 +107,8 @@ If you find this repository helpful, you may consider cite our work:
 * IEEE Transactions on Neural Networks and Learning Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TNNLS.md)
 
 * IEEE/CAA Journal of Automatica Sinica - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IEEE-CAA-JAS.md)
+
+* IETE Technical Review - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IETE-TR.md)
 
 * Information Fusion - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IF.md)
 
@@ -114,6 +126,14 @@ If you find this repository helpful, you may consider cite our work:
 
 * International Journal of Computational Intelligence Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJCIS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJCIS.md)
 
+* International Journal of Crowd Science - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJCS.md)
+
+* International Journal of Ethics and Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JJES.md)
+
+* International Journal of Finance & Economics - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJFE.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJFE.md)
+
+* International Journal of Financial Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJFE1.md)
+
 * International Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJF.md)
 
 * International Journal of Intelligent Information Technologies - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJIIT.md)
@@ -122,9 +142,15 @@ If you find this repository helpful, you may consider cite our work:
 
 * International Journal of System Assurance Engineering and Management - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJSAEM.md)
 
+* International Review of Economics - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IRE.md)
+
 * Internet Research - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IR.md)
 
 * Journal of Ambient Intelligence and Humanized Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JAIHC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JAIHC.md)
+
+* Journal of Behavioral and Experimental Finance - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JBEF.md)
+
+* Journal of Behavioral Finance - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JBF.md)
 
 * Journal of Big Data - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JBD.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JBD.md)
 
@@ -144,11 +170,13 @@ If you find this repository helpful, you may consider cite our work:
 
 * Journal of King Saud University-Computer and Information Sciences - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JKSU.md)
 
+* Journal of Organizational and End User Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JOEUC.md)
+
 * Journal of Signal Processing Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JSPS.md)
 
 * Journal of The Institution of Engineers (India): Series B - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JIE.md)
 
-* Knowledge and Information Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KAIS.md)
+* Knowledge and Information Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/KAIS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KAIS.md)
 
 * Knowledge-Based Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/KBS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KBS.md)
 
@@ -178,7 +206,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Operational Research - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/OR.md)
 
-* Pattern Recognition - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/PR.md)
+* Pattern Recognition - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/PR.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/PR.md)
 
 * Pattern Recognition Letters - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/PRL.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/PRL.md)
 
@@ -196,6 +224,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * Security and Communication Networks - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SCN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SCN.md)
 
+* SN Business & Economics - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SN-BE.md)
+
 * SN Computer Science - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SN-CS.md)
 
 * Soft Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SC.md)
@@ -204,7 +234,13 @@ If you find this repository helpful, you may consider cite our work:
 
 * Symmetry - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Symmetry.md)
 
+* Technological Forecasting and Social Change - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/TFSC.md)
+
 * The Computer Journal - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Computer.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Computer.md)
+
+* The North American Journal of Economics and Finance - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/NAJEF.md)
+
+* The Journal of Finance and Data Science - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JFDS.md)
 
 * The Journal of Supercomputing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JS.md)
 
@@ -233,11 +269,15 @@ If you find this repository helpful, you may consider cite our work:
 
 * ICTAI - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICTAI.md)
 
-* IJCAI - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCAI.md)
+* IJCAI - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCAI.md)
 
 * IJCNN - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCNN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCNN.md)
 
+* KDD - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/KDD.md)
+
 * NAACL - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/NAACL.md)
+
+* Operations Research Forum - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ORF.md)
 
 * SIGIR - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/SIGIR.md)
 

@@ -1,2 +1,4 @@
 * Farahani M S, Hajiagha S H R. <b>Forecasting stock price using integrated artificial neural network and metaheuristic algorithms compared to time series models[J]</b>. Soft Computing, 2021: 1-31. [Link](https://link.springer.com/article/10.1007/s00500-021-05775-5)
 * Chandar S K. <b>Grey Wolf optimization-Elman neural network model for stock price prediction[J]</b>. Soft Computing, 2021, 25(1): 649-658. [Link](https://link.springer.com/article/10.1007/s00500-020-05174-2)
+* Yang F, Chen J, Liu Y. <b>Improved and optimized recurrent neural network based on PSO and its application in stock price prediction[J]</b>. Soft Computing, 2021: 1-16. [Link](https://link.springer.com/article/10.1007/s00500-021-06113-5)
+* Yujun Y, Yimei Y, Wang Z. <b>Research on a hybrid prediction model for stock price based on long short-term memory and variational mode decomposition[J]</b>. Soft Computing, 2021: 1-19. [Link](https://link.springer.com/article/10.1007/s00500-021-06122-4)

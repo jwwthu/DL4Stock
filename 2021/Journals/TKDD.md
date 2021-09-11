@@ -1,1 +1,2 @@
+* Gao J, Ying X, Xu C, et al. <b>Graph-Based Stock Recommendation by Time-Aware Relational Attention Network[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2021, 16(1): 1-21. [Link](https://dl.acm.org/doi/abs/10.1145/3451397) [Code](https://github.com/xiaoting135/TRAN)
 * Sharma S, Majumdar A. <b>Sequential Transform Learning[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2021, 15(5): 1-18. [Link](https://dl.acm.org/doi/abs/10.1145/3447394)

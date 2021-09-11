@@ -1,0 +1,1 @@
+* Srivastava P R, Zhang Z J, Eachempati P. <b>Deep Neural Network and Time Series Approach for Finance Systems: Predicting the Movement of the Indian Stock Market[J]</b>. Journal of Organizational and End User Computing (JOEUC), 2021, 33(5): 204-226. [Link](https://www.igi-global.com/article/deep-neural-network-and-time-series-approach-for-finance-systems/280571)

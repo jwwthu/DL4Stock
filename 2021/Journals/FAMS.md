@@ -1,1 +1,3 @@
+* Dixon M F, London J. <b>Financial Forecasting with alpha-RNNs: A Time Series Modeling Approach[J]</b>. Frontiers in Applied Mathematics and Statistics, 2020, 6: 59. [Link](https://www.frontiersin.org/articles/551138) [Code](https://github.com/mfrdixon/alpha-RNN)
+
 * Zhang Y, Li J, Wang H, et al. <b>Sentiment-Guided Adversarial Learning for Stock Price Prediction[J]</b>. Frontiers in Applied Mathematics and Statistics, 2021, 7: 8. [Link](https://www.frontiersin.org/articles/10.3389/fams.2021.601105/pdf) [Data](https://data.world/kike/nasdaq-100-tweets)

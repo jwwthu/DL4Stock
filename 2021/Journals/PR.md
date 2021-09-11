@@ -1,1 +1,3 @@
+* Cheng D, Yang F, Xiang S, et al. <b>Financial time series forecasting with multi-modality graph neural network[J]</b>. Pattern Recognition, 2022, 121: 108218. [Link](https://www.sciencedirect.com/science/article/pii/S003132032100399X)
+* Yin T, Liu C, Ding F, et al. <b>Graph-based Stock Correlating and Predicting for High-frequency Trading System[J]</b>. Pattern Recognition, 2021: 108209. [Link](https://www.sciencedirect.com/science/article/pii/S0031320321003903)
 * Feng S, Xu C, Zuo Y, et al. <b>Relation-Aware Dynamic Attributed Graph Attention Network for Stocks Recommendation[J]</b>. Pattern Recognition, 2021: 108119. [Link](https://www.sciencedirect.com/science/article/pii/S003132032100306X)

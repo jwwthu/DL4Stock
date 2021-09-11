@@ -1,1 +1,2 @@
 * Srinivas K, Mohan A K. <b>Multi-Model Generative Adversarial Network Hybrid Prediction Algorithm (MMGAN-HPA) for Stock Market Prices Prediction[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S1319157821001683)
+* Mittal S, Nagpal C K. <b>Predicting a Reliable Stock for Mid and Long Term Investment[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S1319157821002251)

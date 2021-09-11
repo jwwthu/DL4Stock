@@ -1,0 +1,1 @@
+* Eachempati P, Srivastava P R, Kumar A, et al. <b>Validating the impact of accounting disclosures on stock market: A deep neural network approach[J]</b>. Technological Forecasting and Social Change, 2021, 170: 120903. [Link](https://www.sciencedirect.com/science/article/pii/S0040162521003358)

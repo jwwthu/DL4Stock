@@ -1,1 +1,2 @@
+* Zhang C, Li Y, Chen X, et al. <b>DoubleEnsemble: A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis[C]</b>//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020: 781-790. [Link](https://ieeexplore.ieee.org/abstract/document/9338413/)
 * Sawhney R, Agarwal S, Wadhwa A, et al. <b>Spatiotemporal Hypergraph Convolution Network for Stock Movement Forecasting[C]</b>//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020: 482-491. [Link](https://ieeexplore.ieee.org/abstract/document/9338303)

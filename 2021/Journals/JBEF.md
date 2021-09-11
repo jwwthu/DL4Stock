@@ -1,0 +1,1 @@
+* Liu K, Zhou J, Dong D. <b>Improving stock price prediction using the long short-term memory model combined with online social networks[J]</b>. Journal of Behavioral and Experimental Finance, 2021, 30: 100507. [Link](https://www.sciencedirect.com/science/article/pii/S2214635021000514)

@@ -1,0 +1,1 @@
+* Roy A S, Chatterjee N. <b>Forecasting of Indian Stock Market Using Rough Set and Fuzzy-Rough Set Based Models[J]</b>. IETE Technical Review, 2021: 1-9. [Link](https://www.tandfonline.com/doi/abs/10.1080/02564602.2021.1960208)
