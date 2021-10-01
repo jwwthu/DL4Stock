@@ -18,6 +18,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * AI Communications - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI-Communications.md)
 
+* AI Open - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AI-Open.md)
+
 * Algorithms - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Algorithms.md)
 
 * Annals of Data Science - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ADS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ADS.md)
@@ -127,6 +129,8 @@ If you find this repository helpful, you may consider cite our work:
 * International Journal of Computational Intelligence Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJCIS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJCIS.md)
 
 * International Journal of Crowd Science - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJCS.md)
+
+* International Journal of Data Science and Analytics - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJDSA.md)
 
 * International Journal of Ethics and Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JJES.md)
 
@@ -246,7 +250,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Web Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/WI.md)
 
-* Wireless Communications and Mobile Computing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/WCMC.md)
+* Wireless Communications and Mobile Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/WCMC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/WCMC.md)
 
 * World Wide Web - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/WWW.md)
 

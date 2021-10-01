@@ -1,0 +1,1 @@
+* Zhao Y. <b>A Novel Stock Index Intelligent Prediction Algorithm Based on Attention-Guided Deep Neural Network[J]</b>. Wireless Communications and Mobile Computing, 2021, 2021. [Link](https://www.hindawi.com/journals/wcmc/2021/6210627/)
