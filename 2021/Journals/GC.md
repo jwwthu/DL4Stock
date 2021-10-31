@@ -1,0 +1,1 @@
+* Bas E, Egrioglu E, Kolemen E. <b>Training simple recurrent deep artificial neural network for forecasting using particle swarm optimization[J]</b>. Granular Computing, 2021: 1-10. [Link](https://link.springer.com/article/10.1007/s41066-021-00274-2)

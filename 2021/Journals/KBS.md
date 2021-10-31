@@ -1,3 +1,4 @@
+* Seong N, Nam K. <b>Forecasting price movements of global financial indices using complex quantitative financial networks[J]</b>. Knowledge-Based Systems, 2021: 107608. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121008704)
 * Fu Z, Xu W, Hu R, et al. <b>MHieR-encoder: Modelling the high-frequency changes across stocks[J]</b>. Knowledge-Based Systems, 2021: 107092. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121003555)
 * Huang Y, Mao X, Deng Y. <b>Natural visibility encoding for time series and its application in stock trend prediction[J]</b>. Knowledge-Based Systems, 2021: 107478. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121007401)
 * Li S, Ning K, Zhang T. <b>Sentiment-aware jump forecasting[J]</b>. Knowledge-Based Systems, 2021: 107292. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121005542)

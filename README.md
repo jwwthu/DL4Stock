@@ -42,6 +42,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * Axioms - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Axioms.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Axioms.md)
 
+* Big Data - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/BD.md)
+
 * CAAI Transactions on Intelligence Technology - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CAAI-TIT.md)
 
 * Chaos, Solitons & Fractals - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/CSF.md)
@@ -80,7 +82,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Expert Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ES.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ES.md)
 
-* Expert Systems with Applications - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ESWA.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ESWA.md)
+* Expert Systems with Applications - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/ESWA.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ESWA.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ESWA.md)
 
 * Finance Research Letters - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/FRL.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/FRL.md)
 
@@ -91,6 +93,8 @@ If you find this repository helpful, you may consider cite our work:
 * Future Generation Computer Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/FGCS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/FGCS.md)
 
 * Future Internet - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Future-Internet.md)
+
+* Granular Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/GC.md)
 
 * IEEE Access - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Access.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Access.md)
 

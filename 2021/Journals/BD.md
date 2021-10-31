@@ -1,0 +1,1 @@
+* Wu J M T, Sun L, Srivastava G, et al. <b>A Long Short-Term Memory Network Stock Price Prediction with Leading Indicators[J]</b>. Big Data, 2021, 9(5): 343-357. [Link](https://www.liebertpub.com/doi/abs/10.1089/big.2020.0391)

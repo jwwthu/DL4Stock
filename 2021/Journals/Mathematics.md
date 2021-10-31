@@ -1,3 +1,5 @@
+* Padhi D K, Padhy N, Bhoi A K, et al. <b>A Fusion Framework for Forecasting Financial Market Direction Using Enhanced Ensemble Models and Technical Indicators[J]</b>. Mathematics, 2021, 9(21): 2646. [Link](https://www.mdpi.com/1320748)
+* Wang J, Liao Y, Zhuang Z, et al. <b>An Optimal Weighted Combined Model Coupled with Feature Reconstruction and Deep Learning for Multivariate Stock Index Forecasting[J]</b>. Mathematics, 2021, 9(21): 2640. [Link](https://www.mdpi.com/1320540)
 * Mousavi P. <b>Debt-by-Price Ratio, End-of-Year Economic Growth, and Long-Term Prediction of Stock Returns[J]</b>. Mathematics, 2021, 9(13): 1550. [Link](https://www.mdpi.com/1173930)
 * Kyriakou I, Mousavi P, Nielsen J P, et al. <b>Short-Term Exuberance and long-term stability: A simultaneous optimization of stock return predictions for short and long horizons[J]</b>. Mathematics, 2021, 9(6): 620. [Link](https://www.mdpi.com/1034746)
 * Zhang X, Liu S, Zheng X. <b>Stock Price Movement Prediction Based on a Deep Factorization Machine and the Attention Mechanism[J]</b>. Mathematics, 2021, 9(8): 800. [Link](https://www.mdpi.com/1063264)

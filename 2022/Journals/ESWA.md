@@ -1,0 +1,1 @@
+* Ronaghi F, Salimibeni M, Naderkhani F, et al. <b>COVID19-HPSMP: COVID-19 adopted Hybrid and Parallel deep information fusion framework for stock price movement prediction[J]</b>. Expert Systems with Applications, 2022, 187: 115879. [Link](https://www.sciencedirect.com/science/article/pii/S0957417421012380) [Data](https://github.com/MSBeni/COVID19_PRIMO#COVID19-PRIMO)

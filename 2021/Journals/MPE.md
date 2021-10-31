@@ -1,1 +1,2 @@
+* Zheng H, Wang H, Chen J. <b>Evolutionary Framework with Bidirectional Long Short-Term Memory Network for Stock Price Prediction[J]</b>. Mathematical Problems in Engineering, 2021, 2021. [Link](https://www.hindawi.com/journals/mpe/2021/8850600/)
 * Tang Q, Shi R, Fan T, et al. <b>Prediction of Financial Time Series Based on LSTM Using Wavelet Transform and Singular Spectrum Analysis[J]</b>. Mathematical Problems in Engineering, 2021, 2021. [Link](https://www.hindawi.com/journals/mpe/2021/9942410/)

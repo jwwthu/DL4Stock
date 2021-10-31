@@ -1,2 +1,3 @@
 * Wang F, Tang S, Li M. <b>Advantages of Combining Factorization Machine with Elman Neural Network for Volatility Forecasting of Stock Market[J]</b>. Complexity, 2021, 2021. [Link](https://www.hindawi.com/journals/complexity/2021/6641298/)
 * Jia F, Yang B. <b>Forecasting Volatility of Stock Index: Deep Learning Model with Likelihood-Based Loss Function[J]</b>. Complexity, 2021, 2021. [Link](https://www.hindawi.com/journals/complexity/2021/5511802/)
+* Widiputra H, Mailangkay A, Gautama E. <b>Multivariate CNN-LSTM Model for Multiple Parallel Financial Time-Series Prediction[J]</b>. Complexity, 2021, 2021. [Link](https://www.hindawi.com/journals/complexity/2021/9903518/)
