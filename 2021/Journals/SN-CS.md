@@ -1,1 +1,2 @@
+* Srivastava A K, Srivastava A, Singh S, et al. <b>Design of Machine-Learning Classifier for Stock Market Prediction[J]</b>. SN Computer Science, 2022, 3(1): 1-11. [Link](https://link.springer.com/article/10.1007/s42979-021-00970-5)
 * Jun S W, Sekh A A, Quek C, et al. <b>seMLP: Self-evolving Multi-layer Perceptron in Stock Trading Decision Making[J]</b>. SN Computer Science, 2021, 2(2): 1-11. [Link](https://link.springer.com/article/10.1007/s42979-021-00524-9)

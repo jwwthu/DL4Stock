@@ -1,0 +1,1 @@
+* Chopra R, Sharma G D. <b>Application of Artificial Intelligence in Stock Market Forecasting: A Critique, Review, and Research Agenda[J]</b>. Journal of Risk and Financial Management, 2021, 14(11): 526. [Link](https://www.mdpi.com/1911-8074/14/11/526)

@@ -1,0 +1,1 @@
+* He J, Khushi M, Tran N H, et al. <b>Robust Dual Recurrent Neural Networks for Financial Time Series Prediction[C]</b>//Proceedings of the 2021 SIAM International Conference on Data Mining (SDM). Society for Industrial and Applied Mathematics, 2021: 747-755. [Link](https://epubs.siam.org/doi/abs/10.1137/1.9781611976700.84) [Code](https://jiayuheusyd.github.io/)

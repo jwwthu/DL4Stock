@@ -180,6 +180,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * Journal of Organizational and End User Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JOEUC.md)
 
+* Journal of Risk and Financial Management - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JRFM.md)
+
 * Journal of Signal Processing Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JSPS.md)
 
 * Journal of The Institution of Engineers (India): Series B - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JIE.md)
@@ -240,6 +242,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * Software: Practice and Experience - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SPE.md)
 
+* Sustainability - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Sustainability.md)
+
 * Symmetry - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Symmetry.md)
 
 * Technological Forecasting and Social Change - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/TFSC.md)
@@ -267,6 +271,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * CIKM - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/CIKM.md)
 
+* DSAA - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/DSAA.md)
+
 * EMNLP - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/EMNLP.md)
 
 * FUSION - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/FUSION.md)
@@ -286,6 +292,8 @@ If you find this repository helpful, you may consider cite our work:
 * NAACL - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/NAACL.md)
 
 * Operations Research Forum - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ORF.md)
+
+* SDM - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/SDM.md)
 
 * SIGIR - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/SIGIR.md)
 

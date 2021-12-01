@@ -1,1 +1,2 @@
 * Sousa R, Lima T, Abelha A, et al. <b>Hierarchical Temporal Memory Theory Approach to Stock Market Time Series Forecasting[J]</b>. Electronics, 2021, 10(14): 1630. [Link](https://www.mdpi.com/1181258)
+* Rouf N, Malik M B, Arif T, et al. <b>Stock Market Prediction Using Machine Learning Techniques: A Decade Survey on Methodologies, Recent Developments, and Future Directions[J]</b>. Electronics, 2021, 10(21): 2717. [Link](https://www.mdpi.com/2079-9292/10/21/2717)

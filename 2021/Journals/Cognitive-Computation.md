@@ -1,1 +1,2 @@
+* Wang J, Feng L, Li Y, et al. <b>Deep Nonlinear Ensemble Framework for Stock Index Forecasting and Uncertainty Analysis[J]</b>. Cognitive Computation, 2021: 1-19. [Link](https://link.springer.com/article/10.1007/s12559-021-09961-3)
 * Li X, Wu P. <b>Stock price prediction incorporating market style clustering[J]</b>. Cognitive Computation, 2021: 1-18. [Link](https://link.springer.com/article/10.1007/s12559-021-09820-1)
