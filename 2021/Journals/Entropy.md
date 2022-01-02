@@ -1,1 +1,3 @@
 * Wu D, Wang X, Wu S. <b>A Hybrid Method Based on Extreme Learning Machine and Wavelet Transform Denoising for Stock Prediction[J]</b>. Entropy, 2021, 23(4): 440. [Link](https://www.mdpi.com/1065904) [Data](https://github.com/justbeat99/400_stocks_data_zips.git)
+* Xiu Y, Wang G, Chan W K V. <b>Crash Diagnosis and Price Rebound Prediction in NYSE Composite Index Based on Visibility Graph and Time-Evolving Stock Correlation Network[J]</b>. Entropy, 2021, 23(12): 1612. [Link](https://www.mdpi.com/1383956)
+* Zhang S, Fang W. <b>Multifractal Behaviors of Stock Indices and Their Ability to Improve Forecasting in a Volatility Clustering Period[J]</b>. Entropy, 2021, 23(8): 1018. [Link](https://www.mdpi.com/1219716)

@@ -1,0 +1,1 @@
+* Hou M, Xu C, Liu Y, et al. <b>Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion[C]</b>//Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021: 700-709. [Link](https://dl.acm.org/doi/abs/10.1145/3459637.3482483)

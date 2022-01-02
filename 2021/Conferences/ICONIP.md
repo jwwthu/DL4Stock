@@ -1,0 +1,1 @@
+* Gong J, Eldardiry H. <b>Multi-stage Hybrid Attentive Networks for Knowledge-Driven Stock Movement Prediction[C]</b>//International Conference on Neural Information Processing. Springer, Cham, 2021: 501-513. [Link](https://link.springer.com/chapter/10.1007/978-3-030-92273-3_41)

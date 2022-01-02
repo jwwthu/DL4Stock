@@ -1,0 +1,1 @@
+* Ho T T, Huang Y. <b>Stock Price Movement Prediction Using Sentiment Analysis and CandleStick Chart Representation[J]</b>. Sensors, 2021, 21(23): 7957. [Link](https://www.mdpi.com/1424-8220/21/23/7957)

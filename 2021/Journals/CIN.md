@@ -1,0 +1,1 @@
+* Zheng H, Zhou Z, Chen J. <b>RLSTM: A New Framework of Stock Prediction by Using Random Noise for Overfitting Prevention[J]</b>. Computational Intelligence and Neuroscience, 2021, 2021. [Link](https://www.hindawi.com/journals/cin/2021/8865816/)

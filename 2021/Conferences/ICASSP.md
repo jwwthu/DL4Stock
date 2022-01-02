@@ -1,0 +1,1 @@
+* Daiya D, Lin C. <b>Stock Movement Prediction and Portfolio Management via Multimodal Learning with Transformer[C]</b>//ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021: 3305-3309. [Link](https://ieeexplore.ieee.org/abstract/document/9414893/)

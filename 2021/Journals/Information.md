@@ -1,0 +1,1 @@
+* Prachyachuwong K, Vateekul P. <b>Stock Trend Prediction Using Deep Learning Approach on Technical Indicator and Industrial Specific Information[J]</b>. Information, 2021, 12(6): 250. [Link](https://www.mdpi.com/1151226)

@@ -1,1 +1,2 @@
+* Zhou Q, Liu H, Li W, et al. <b>Bilateral Autotrading Framework for Stock Prediction[C]</b>//2021 International Joint Conference on Neural Networks (IJCNN). IEEE, 2021: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/9533435/)
 * Xu Y L, Calvi G G, Mandic D P. <b>Tensor-Train Recurrent Neural Networks for Interpretable Multi-Way Financial Forecasting[J]</b>. IJCNN, 2021. [Link](https://arxiv.org/abs/2105.04983)

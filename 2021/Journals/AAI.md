@@ -1,1 +1,2 @@
+* Worasucheep C. <b>Ensemble Classifier for Stock Trading Recommendation[J]</b>. Applied Artificial Intelligence, 2021: 1-32. [Link](https://www.tandfonline.com/doi/abs/10.1080/08839514.2021.2001178)
 * Zhang X, Gu N, Chang J, et al. <b>Predicting stock price movement using a DBN-RNN[J]</b>. Applied Artificial Intelligence, 2021: 1-17. [Link](https://www.tandfonline.com/doi/abs/10.1080/08839514.2021.1942520)

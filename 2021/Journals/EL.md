@@ -1,0 +1,1 @@
+* Na H, Kim S. <b>Predicting stock prices based on informed traders’ activities using deep neural networks[J]</b>. Economics Letters, 2021, 204: 109917. [Link](https://www.sciencedirect.com/science/article/pii/S0165176521001944)

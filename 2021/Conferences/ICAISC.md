@@ -1,0 +1,1 @@
+* Wu J M T, Li Z, Djenouri Y, et al. <b>A Graphic CNN-LSTM Model for Stock Price Predication[C]</b>//International Conference on Artificial Intelligence and Soft Computing. Springer, Cham, 2021: 258-268. [Link](https://link.springer.com/chapter/10.1007/978-3-030-87986-0_23)
