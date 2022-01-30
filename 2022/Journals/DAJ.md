@@ -1,0 +1,1 @@
+* Chhajer P, Shah M, Kshirsagar A. <b>The applications of artificial neural networks, support vector machines, and long–short term memory for stock market prediction[J]</b>. Decision Analytics Journal, 2022, 2: 100015. [Link](https://www.sciencedirect.com/science/article/pii/S2772662221000102)

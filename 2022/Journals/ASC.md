@@ -1,0 +1,1 @@
+* Park H J, Kim Y, Kim H Y. <b>Stock market forecasting using a multi-task approach integrating long short-term memory and the random forest framework[J]</b>. Applied Soft Computing, 2022, 114: 108106. [Link](https://www.sciencedirect.com/science/article/pii/S1568494621009947)

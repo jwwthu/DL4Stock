@@ -1,2 +1,3 @@
+* Zhang W, Zhang N, Yan J, et al. <b>Auto Tuning of Price Prediction Models for High-frequency Trading via Reinforcement Learning[J]</b>. Pattern Recognition, 2022: 108543. [Link](https://www.sciencedirect.com/science/article/pii/S0031320322000243)
 * Cheng D, Yang F, Xiang S, et al. <b>Financial time series forecasting with multi-modality graph neural network[J]</b>. Pattern Recognition, 2022, 121: 108218. [Link](https://www.sciencedirect.com/science/article/pii/S003132032100399X)
 * Feng S, Xu C, Zuo Y, et al. <b>Relation-aware dynamic attributed graph attention network for stocks recommendation[J]</b>. Pattern Recognition, 2022, 121: 108119. [Link](https://www.sciencedirect.com/science/article/pii/S003132032100306X)

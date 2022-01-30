@@ -1,0 +1,1 @@
+* Huang H, Liu X, Zhang Y, et al. <b>News-driven stock prediction via noisy equity state representation[J]</b>. Neurocomputing, 2022, 470: 66-75. [Link](https://www.sciencedirect.com/science/article/pii/S0925231221016246)

@@ -30,9 +30,9 @@ If you find this repository helpful, you may consider cite our work:
 
 * Applied Intelligence - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI.md)
 
-* Applied Sciences - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AS.md)
+* Applied Sciences - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AS.md)
 
-* Applied Soft Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ASC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ASC.md)
+* Applied Soft Computing - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/ASC.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ASC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ASC.md)
 
 * Applied System Innovation - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ASI.md)
 
@@ -50,13 +50,15 @@ If you find this repository helpful, you may consider cite our work:
 
 * China Communications - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/CC.md)
 
+* CMC-Computers, Materials & Continua - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/CMC.md)
+
 * Cognitive Computation - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Cognitive-Computation.md)
 
 * Communications in Statistics-Simulation and Computation - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CSSC.md)
 
 * Complexity - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Complexity.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Complexity.md)
 
-* Computational Economics - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CE.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/CE.md)
+* Computational Economics - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/CE.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CE.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/CE.md)
 
 * Computational Intelligence and Neuroscience - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CIN.md)
 
@@ -66,9 +68,11 @@ If you find this repository helpful, you may consider cite our work:
 
 * Concurrency and Computation: Practice and Experience - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CAC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/CAC.md)
 
-* Connection Science - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CS.md)
+* Connection Science - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/CS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CS.md)
 
 * Data & Knowledge Engineering - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/DKE.md)
+
+* Decision Analytics Journal - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/DAJ.md)
 
 * Digital Signal Processing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/DSP.md)
 
@@ -160,6 +164,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * International Journal of Intelligent Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJIS.md)
 
+* International Journal of Software Engineering and Knowledge Engineering - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/IJSEKE.md)
+
 * International Journal of System Assurance Engineering and Management - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJSAEM.md)
 
 * International Review of Economics - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IRE.md)
@@ -200,13 +206,13 @@ If you find this repository helpful, you may consider cite our work:
 
 * Knowledge and Information Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/KAIS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KAIS.md)
 
-* Knowledge-Based Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/KBS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KBS.md)
+* Knowledge-Based Systems - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/KBS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/KBS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KBS.md)
 
 * Kybernetes - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Kybernetes.md)
 
 * Machine Learning and Knowledge Extraction - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/MLKE.md)
 
-* Machine Learning with Applications - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/MLWA.md)
+* Machine Learning with Applications - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/MLWA.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/MLWA.md)
 
 * Mathematical Biosciences and Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/MBE.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/MBE.md)
 
@@ -226,7 +232,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Neural Networks - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/NN.md)
 
-* Neurocomputing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Neurocomputing.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Neurocomputing.md)
+* Neurocomputing - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/Neurocomputing.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Neurocomputing.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Neurocomputing.md)
 
 * Operational Research - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/OR.md)
 
@@ -279,7 +285,7 @@ If you find this repository helpful, you may consider cite our work:
 * World Wide Web - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/WWW.md)
 
 ## Conferences
-* AAAI - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/AAAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/AAAI.md)
+* AAAI - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/AAAI.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/AAAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/AAAI.md)
 
 * BigData - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/BigData.md)
 

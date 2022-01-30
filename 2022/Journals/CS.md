@@ -1,0 +1,1 @@
+* Li Y, Dai H N, Zheng Z. <b>Selective transfer learning with adversarial training for stock movement prediction[J]</b>. Connection Science, 2022: 1-19. [Link](https://www.tandfonline.com/doi/abs/10.1080/09540091.2021.2021143)

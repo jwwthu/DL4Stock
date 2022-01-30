@@ -1,0 +1,1 @@
+* Agrawal M, Shukla P K, Nair R, et al. <b>Stock prediction based on technical indicators using deep learning model[J]</b>. CMC-Computers, Materials & Continua, 2022, 70(1): 287-304. [Link](https://www.techscience.com/cmc/v70n1/44330)

@@ -1,0 +1,1 @@
+* Soleymani F, Paquet E. <b>Long-term financial predictions based on Feynman–Dirac path integrals, deep Bayesian networks and temporal generative adversarial networks[J]</b>. Machine Learning with Applications, 2022: 100255. [Link](https://www.sciencedirect.com/science/article/pii/S2666827022000044)

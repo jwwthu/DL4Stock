@@ -1,0 +1,1 @@
+* Yu X, Li D, Shen Y. <b>A Volume-Aware Positional Attention-Based Recurrent Neural Network for Stock Index Prediction[J]</b>. International Journal of Software Engineering and Knowledge Engineering, 2021, 31(11n12): 1783-1801. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0218194021400222)
