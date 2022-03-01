@@ -1,0 +1,1 @@
+* Lee M C, Chang J W, Yeh S C, et al. <b>Applying attention-based BiLSTM and technical indicators in the design and performance analysis of stock trading strategies[J]</b>. Neural Computing and Applications, 2022: 1-13. [Link](https://link.springer.com/article/10.1007/s00521-021-06828-4)

@@ -1,0 +1,1 @@
+* Tai W, Zhong T, Mo Y, et al. <b>Learning Sentimental and Financial Signals with Normalizing Flows for Stock Movement Prediction[J]</b>. IEEE Signal Processing Letters, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9652123/)

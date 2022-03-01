@@ -1,0 +1,1 @@
+* Albahli S, Nazir T, Mehmood A, et al. <b>AEI-DNET: A Novel DenseNet Model with an Autoencoder for the Stock Market Predictions Using Stock Technical Indicators[J]</b>. Electronics, 2022, 11(4): 611. [Link](https://www.mdpi.com/1501222)

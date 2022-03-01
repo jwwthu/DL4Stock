@@ -1,0 +1,1 @@
+* Wang X, Li X, Li S. <b>A novel stock indices hybrid forecasting system based on features extraction and multi-objective optimizer[J]</b>. Applied Intelligence, 2022: 1-24. [Link](https://link.springer.com/article/10.1007/s10489-021-03031-9)

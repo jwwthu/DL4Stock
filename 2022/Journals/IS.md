@@ -1,0 +1,1 @@
+* Kamara A F, Chen E, Pan Z. <b>An Ensemble of a Boosted Hybrid of Deep Learning Models and Technical Analysis for Forecasting Stock Prices[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522001499)

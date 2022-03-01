@@ -1,0 +1,1 @@
+* Wood K, Roberts S, Zohren S. <b>Slow momentum with fast reversion: A trading strategy using deep learning and changepoint detection[J]</b>. The Journal of Financial Data Science, 2022, 4(1): 111-129. [Link](https://jfds.pm-research.com/content/4/1/111.abstract)

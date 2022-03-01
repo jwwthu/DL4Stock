@@ -1,0 +1,1 @@
+* Sinha S, Mishra S, Mishra V, et al. <b>Sector influence aware stock trend prediction using 3D convolutional neural network[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1319157822000416)

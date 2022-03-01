@@ -1,0 +1,1 @@
+* Staffini A. <b>Stock Price Forecasting by a Deep Convolutional Generative Adversarial Network[J]</b>. Frontiers in Artificial Intelligence, 2022, 5. [Link](https://www.frontiersin.org/articles/10.3389/frai.2022.837596/full)
