@@ -1,0 +1,1 @@
+* Manujakshi B C, Kabadi M G, Naik N. <b>A Hybrid Stock Price Prediction Model Based on PRE and Deep Neural Network[J]</b>. Data, 2022, 7(5): 51. [Link](https://www.mdpi.com/2306-5729/7/5/51) [Code](https://www.mdpi.com/article/10.3390/data7050051/s1)

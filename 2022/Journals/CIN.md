@@ -1,0 +1,1 @@
+* Dhafer A H, Mat Nor F, Alkawsi G, et al. <b>Empirical Analysis for Stock Price Prediction Using NARX Model with Exogenous Technical Indicators[J]</b>. Computational Intelligence and Neuroscience, 2022, 2022. [Link](https://www.hindawi.com/journals/cin/2022/9208640/)

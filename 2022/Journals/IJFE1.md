@@ -1,0 +1,1 @@
+* Lin Y, Huang Q, Zhong Q, et al. <b>A new attention-based LSTM model for closing stock price prediction[J]</b>. International Journal of Financial Engineering, 2022: 2250014. [Link](https://www.worldscientific.com/doi/abs/10.1142/S2424786322500141)

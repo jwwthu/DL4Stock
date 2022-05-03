@@ -1,0 +1,1 @@
+* Hu W, Liu H, Ma X, et al. <b>The Influence and Prediction of Industry Asset Price Fluctuation Based on The LSTM Model and Investor Sentiment[J]</b>. Mathematical Problems in Engineering, 2022, 2022. [Link](https://www.hindawi.com/journals/mpe/2022/1113023/)

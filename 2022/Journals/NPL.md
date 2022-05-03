@@ -1,0 +1,1 @@
+* Kirisci M, Cagcag Yolcu O. <b>A New CNN-Based Model for Financial Time Series: TAIEX and FTSE Stocks Forecasting[J]</b>. Neural Processing Letters, 2022: 1-18. [Link](https://link.springer.com/article/10.1007/s11063-022-10767-z)

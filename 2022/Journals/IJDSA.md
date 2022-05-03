@@ -1,0 +1,1 @@
+* Li Y, Pan Y. <b>A novel ensemble deep learning model for stock prediction based on stock prices and news[J]</b>. International Journal of Data Science and Analytics, 2022, 13(2): 139-149. [Link](https://link.springer.com/article/10.1007/s41060-021-00279-9)
