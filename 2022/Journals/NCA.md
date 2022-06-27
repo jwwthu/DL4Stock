@@ -1,1 +1,2 @@
 * Lee M C, Chang J W, Yeh S C, et al. <b>Applying attention-based BiLSTM and technical indicators in the design and performance analysis of stock trading strategies[J]</b>. Neural Computing and Applications, 2022: 1-13. [Link](https://link.springer.com/article/10.1007/s00521-021-06828-4)
+* Lin C T, Wang Y K, Huang P L, et al. <b>Spatial-temporal attention-based convolutional network with text and numerical information for stock price prediction[J]</b>. Neural Computing and Applications, 2022: 1-9. [Link](https://link.springer.com/article/10.1007/s00521-022-07234-0)

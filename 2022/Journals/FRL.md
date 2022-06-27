@@ -1,0 +1,1 @@
+* Ma C, Yan S. <b>Deep learning in the Chinese stock market: the role of technical indicators[J]</b>. Finance Research Letters, 2022: 103025. [Link](https://www.sciencedirect.com/science/article/pii/S1544612322002653)

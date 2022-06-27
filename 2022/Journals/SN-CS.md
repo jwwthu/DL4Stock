@@ -1,0 +1,1 @@
+* Giang Thi Thu H, Nguyen Thanh T, Le Quy T. <b>Dynamic Sliding Window and Neighborhood LSTM-Based Model for Stock Price Prediction[J]</b>. SN Computer Science, 2022, 3(3): 1-14. [Link](https://link.springer.com/article/10.1007/s42979-022-01158-1)

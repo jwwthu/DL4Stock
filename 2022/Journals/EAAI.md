@@ -1,0 +1,1 @@
+* Wang J, Cui Q, Sun X, et al. <b>Asian stock markets closing index forecast based on secondary decomposition, multi-factor analysis and attention-based LSTM model[J]</b>. Engineering Applications of Artificial Intelligence, 2022, 113: 104908. [Link](https://www.sciencedirect.com/science/article/pii/S0952197622001385)

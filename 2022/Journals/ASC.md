@@ -1,1 +1,2 @@
 * Park H J, Kim Y, Kim H Y. <b>Stock market forecasting using a multi-task approach integrating long short-term memory and the random forest framework[J]</b>. Applied Soft Computing, 2022, 114: 108106. [Link](https://www.sciencedirect.com/science/article/pii/S1568494621009947)
+* Li R, Han T, Song X. <b>Stock price index forecasting using a multiscale modelling strategy based on frequency components analysis and intelligent optimization[J]</b>. Applied Soft Computing, 2022: 109089. [Link](https://www.sciencedirect.com/science/article/pii/S1568494622003763)

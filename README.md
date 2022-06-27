@@ -84,7 +84,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Electronics - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/Electronics.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Electronics.md)
 
-* Engineering Applications of Artificial Intelligence - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/EAAI.md)
+* Engineering Applications of Artificial Intelligence - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/EAAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/EAAI.md)
 
 * Engineering Science and Technology, an International Journal - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/EST.md)
 
@@ -96,7 +96,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Expert Systems with Applications - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/ESWA.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ESWA.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ESWA.md)
 
-* Finance Research Letters - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/FRL.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/FRL.md)
+* Finance Research Letters - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/FRL.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/FRL.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/FRL.md)
 
 * Financial Innovation - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/FI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/FI.md)
 
@@ -264,7 +264,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * SN Business & Economics - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SN-BE.md)
 
-* SN Computer Science - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SN-CS.md)
+* SN Computer Science - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/SN-CS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SN-CS.md)
 
 * Soft Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SC.md)
 
