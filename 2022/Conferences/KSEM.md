@@ -1,0 +1,1 @@
+* Mejbri H, Mahfoudh M, Forestier G. <b>Deep Learning-Based Sentiment Analysis for Predicting Financial Movements[C]</b>//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2022: 586-596. [Link](https://link.springer.com/chapter/10.1007/978-3-031-10986-7_47)

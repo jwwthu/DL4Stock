@@ -1,2 +1,3 @@
 * Soleymani F, Paquet E. <b>Long-term financial predictions based on Feynman–Dirac path integrals, deep Bayesian networks and temporal generative adversarial networks[J]</b>. Machine Learning with Applications, 2022: 100255. [Link](https://www.sciencedirect.com/science/article/pii/S2666827022000044)
+* Pokhrel N R, Dahal K R, Rimal R, et al. <b>Predicting NEPSE index price using deep learning models[J]</b>. Machine Learning with Applications, 2022: 100385. [Link](https://www.sciencedirect.com/science/article/pii/S2666827022000706)
 * Bhandari H N, Rimal B, Pokhrel N R, et al. <b>Predicting stock market index using LSTM[J]</b>. Machine Learning with Applications, 2022: 100320. [Link](https://www.sciencedirect.com/science/article/pii/S2666827022000378)

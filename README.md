@@ -40,6 +40,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * Archives of Computational Methods in Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ACME.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ACME.md)
 
+* Artificial Intelligence Review - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AIR.md)
+
 * Axioms - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Axioms.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Axioms.md)
 
 * Big Data - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/BD.md)
@@ -166,7 +168,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * International Journal of Intelligent Information Technologies - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJIIT.md)
 
-* International Journal of Intelligent Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJIS.md)
+* International Journal of Intelligent Systems - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/IJIS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJIS.md)
 
 * International Journal of Software Engineering and Knowledge Engineering - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/IJSEKE.md)
 
@@ -182,7 +184,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Journal of Behavioral Finance - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JBF.md)
 
-* Journal of Big Data - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JBD.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JBD.md)
+* Journal of Big Data - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/JBD.md) [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JBD.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JBD.md)
 
 * Journal of Computational and Applied Mathematics - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JCAM.md)
 
@@ -212,7 +214,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Knowledge-Based Systems - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/KBS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/KBS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/KBS.md)
 
-* Kybernetes - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Kybernetes.md)
+* Kybernetes - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/Kybernetes.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Kybernetes.md)
 
 * Machine Learning and Knowledge Extraction - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/MLKE.md)
 
@@ -258,7 +260,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Scientific Reports - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SR.md)
 
-* Security and Communication Networks - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SCN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SCN.md)
+* Security and Communication Networks - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/SCN.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SCN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SCN.md)
 
 * Sensors - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/Sensors.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Sensors.md)
 
@@ -326,6 +328,8 @@ If you find this repository helpful, you may consider cite our work:
 * IJCNN - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCNN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCNN.md)
 
 * KDD - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/KDD.md)
+
+* KSEM - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/KSEM.md)
 
 * NAACL - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/NAACL.md)
 

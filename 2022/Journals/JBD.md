@@ -1,0 +1,1 @@
+* Lawi A, Mesra H, Amir S. <b>Implementation of Long Short-Term Memory and Gated Recurrent Units on grouped time-series data to predict stock prices accurately[J]</b>. Journal of Big Data, 2022, 9(1): 1-19. [Link](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00597-0) [Code](https://github.com/armin-lawi/ForcastingStockPrice-with-Grouped-Dataset)

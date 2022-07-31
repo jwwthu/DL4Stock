@@ -1,0 +1,1 @@
+* Olorunnimbe K, Viktor H. <b>Deep learning in the stock market—a systematic survey of practice, backtesting, and applications[J]</b>. Artificial Intelligence Review, 2022: 1-53. [Link](https://link.springer.com/article/10.1007/s10462-022-10226-0)
