@@ -1,0 +1,1 @@
+* Oh J. <b>Short-Term Stock Price Prediction by Supervised Learning of Rapid Volume Decrease Patterns[J]</b>. IEICE TRANSACTIONS on Information and Systems, 2022, 105(8): 1431-1442. [Link](https://search.ieice.org/bin/summary.php?id=e105-d_8_1431)

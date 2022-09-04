@@ -64,7 +64,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Computational Intelligence and Neuroscience - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/CIN.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CIN.md)
 
-* Computers & Electrical Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CEE.md)
+* Computers & Electrical Engineering - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/CEE.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CEE.md)
 
 * Computing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Computing.md)
 
@@ -134,6 +134,8 @@ If you find this repository helpful, you may consider cite our work:
 
 * IEEE/CAA Journal of Automatica Sinica - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IEEE-CAA-JAS.md)
 
+* IEICE TRANSACTIONS on Information and Systems - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/IEICE-ED.md)
+
 * IETE Technical Review - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IETE-TR.md)
 
 * Information - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Information.md)
@@ -149,6 +151,8 @@ If you find this repository helpful, you may consider cite our work:
 * Intelligent Data Analysis - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IDA.md)
 
 * Intelligent Decision Technologies - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IDT.md)
+
+* Intelligent Systems with Applications - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/ISWA.md)
 
 * International Journal of Approximate Reasoning - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJAR.md)
 
@@ -189,6 +193,8 @@ If you find this repository helpful, you may consider cite our work:
 * Journal of Computational and Applied Mathematics - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JCAM.md)
 
 * Journal of Computational Methods in Sciences and Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JCMSE.md)
+
+* Journal of Empirical Finance - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/JEF.md)
 
 * Journal of Experimental & Theoretical Artificial Intelligence - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JETAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JETAI.md)
 

@@ -1,0 +1,1 @@
+* Zhao A B, Cheng T. <b>Stock return prediction: Stacking a variety of models[J]</b>. Journal of Empirical Finance, 2022, 67: 288-317. [Link](https://www.sciencedirect.com/science/article/pii/S0927539822000342)

@@ -1,0 +1,1 @@
+* Wang C, Liang H, Wang B, et al. <b>MG-Conv: A spatiotemporal multi-graph convolutional neural network for stock market index trend prediction[J]</b>. Computers and Electrical Engineering, 2022, 103: 108285. [Link](https://www.sciencedirect.com/science/article/pii/S0045790622005134)

@@ -1,2 +1,3 @@
 * Wang P, Li X, Qin Z, et al. <b>Stock Price Forecasting Based on Wavelet Filtering and Ensembled Machine Learning Model[J]</b>. Mathematical Problems in Engineering, 2022, 2022. [Link](https://www.hindawi.com/journals/mpe/2022/4024953/)
 * Hu W, Liu H, Ma X, et al. <b>The Influence and Prediction of Industry Asset Price Fluctuation Based on The LSTM Model and Investor Sentiment[J]</b>. Mathematical Problems in Engineering, 2022, 2022. [Link](https://www.hindawi.com/journals/mpe/2022/1113023/)
+* Zhu H, Fan L. <b>Application of Improved Deep Belief Network Based on Intelligent Algorithm in Stock Price Prediction[J]</b>. Mathematical Problems in Engineering, 2022, 2022. [Link](https://www.hindawi.com/journals/mpe/2022/9362283/)
