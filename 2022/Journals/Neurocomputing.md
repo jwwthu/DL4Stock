@@ -1,3 +1,4 @@
+* Tang Y, Song Z, Zhu Y, et al. <b>A Survey on Machine Learning Models for Financial Time Series Forecasting[J]</b>. Neurocomputing, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S092523122201089X)
 * Chen X, Ma X, Wang H, et al. <b>A hierarchical attention network for stock prediction based on attentive multi-view news learning[J]</b>. Neurocomputing, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0925231222008372)
 * Teng X, Zhang X, Luo Z. <b>Multi-scale Local Cues and Hierarchical Attention-Based LSTM for Stock Price Trend Prediction[J]</b>. Neurocomputing, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0925231222008736)
 * Huang H, Liu X, Zhang Y, et al. <b>News-driven stock prediction via noisy equity state representation[J]</b>. Neurocomputing, 2022, 470: 66-75. [Link](https://www.sciencedirect.com/science/article/pii/S0925231221016246)
