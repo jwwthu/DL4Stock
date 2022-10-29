@@ -1,1 +1,2 @@
+* Yilmaz F M, Yildiztepe E. <b>Statistical Evaluation of Deep Learning Models for Stock Return Forecasting[J]</b>. Computational Economics, 2022: 1-24. [Link](https://link.springer.com/article/10.1007/s10614-022-10338-3)
 * Nametala C A L, Souza J V, Pimenta A, et al. <b>Use of Econometric Predictors and Artificial Neural Networks for the Construction of Stock Market Investment Bots[J]</b>. Computational Economics, 2022: 1-31. [Link](https://link.springer.com/article/10.1007/s10614-021-10228-0)
