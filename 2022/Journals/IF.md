@@ -1,0 +1,1 @@
+* Huang W C, Chen C T, Lee C, et al. <b>Attentive gated graph sequence neural network-based time-series information fusion for financial trading[J]</b>. Information Fusion, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1566253522001750)

@@ -140,7 +140,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Information - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Information.md)
 
-* Information Fusion - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IF.md)
+* Information Fusion - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/IF.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IF.md)
 
 * Information Processing & Management - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IPM.md)
 
@@ -307,7 +307,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * CAC - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/CAC.md)
 
-* CIKM - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/CIKM.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/CIKM.md)
+* CIKM - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/CIKM.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/CIKM.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/CIKM.md)
 
 * DASFAA - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/DASFAA.md)
 

@@ -1,0 +1,1 @@
+* Xiang S, Cheng D, Shang C, et al. <b>Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction[C]</b>//Proceedings of the 31st ACM International Conference on Information & Knowledge Management. 2022: 3584-3593. [Link](https://dl.acm.org/doi/abs/10.1145/3511808.3557089)
