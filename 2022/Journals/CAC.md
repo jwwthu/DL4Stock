@@ -1,0 +1,1 @@
+* Asgarian S, Ghasemi R, Momtazi S. <b>Generative adversarial network for sentiment‐based stock prediction[J]</b>. Concurrency and Computation: Practice and Experience, e7467, 2022. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7467)

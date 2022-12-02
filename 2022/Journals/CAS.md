@@ -1,0 +1,1 @@
+* Wan W D, Bai Y, Lu Y N, et al. <b>A Hybrid Model Combining a Gated Recurrent Unit Network Based on Variational Mode Decomposition with Error Correction for Stock Price Prediction[J]</b>. Cybernetics and Systems, 2022: 1-25. [Link](https://www.tandfonline.com/doi/abs/10.1080/01969722.2022.2137634)

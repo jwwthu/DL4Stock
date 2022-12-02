@@ -1,3 +1,4 @@
+* Lin Y L, Lai C J, Pai P F. <b>Using Deep Learning Techniques in Forecasting Stock Markets by Hybrid Data with Multilingual Sentiment Analysis[J]</b>. Electronics, 2022, 11(21): 3513. [Link](https://www.mdpi.com/1913794)
 * Daradkeh M K. <b>A Hybrid Data Analytics Framework with Sentiment Convergence and Multi-Feature Fusion for Stock Trend Prediction[J]</b>. Electronics, 2022, 11(2): 250. [Link](https://www.mdpi.com/2079-9292/11/2/250)
 * Albahli S, Nazir T, Mehmood A, et al. <b>AEI-DNET: A Novel DenseNet Model with an Autoencoder for the Stock Market Predictions Using Stock Technical Indicators[J]</b>. Electronics, 2022, 11(4): 611. [Link](https://www.mdpi.com/1501222)
 * Albahli S, Irtaza A, Nazir T, et al. <b>A Machine Learning Method for Prediction of Stock Market Using Real-Time Twitter Data[J]</b>. Electronics, 2022, 11(20): 3414. [Link](https://www.mdpi.com/2079-9292/11/20/3414)

@@ -1,1 +1,2 @@
+* Venkateswararao K, Reddy B. <b>LT-SMF: long term stock market price trend prediction using optimal hybrid machine learning technique[J]</b>. Artificial Intelligence Review, 2022: 1-38. [Link](https://link.springer.com/article/10.1007/s10462-022-10291-5)
 * Olorunnimbe K, Viktor H. <b>Deep learning in the stock market—a systematic survey of practice, backtesting, and applications[J]</b>. Artificial Intelligence Review, 2022: 1-53. [Link](https://link.springer.com/article/10.1007/s10462-022-10226-0)

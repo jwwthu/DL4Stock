@@ -1,1 +1,2 @@
+* Yang J, Wang Y, Li X. <b>Prediction of stock price direction using the LASSO-LSTM model combines technical indicators and financial sentiment analysis[J]</b>. PeerJ Computer Science, 2022, 8: e1148. [Link](https://peerj.com/articles/cs-1148/)
 * Oh J. <b>Development of a stock trading system based on a neural network using highly volatile stock price patterns[J]</b>. PeerJ Computer Science, 2022, 8: e915. [Link](https://peerj.com/articles/cs-915/) [Code](https://github.com/chfhdahwk/Hivol_Stock_Prediction.git)

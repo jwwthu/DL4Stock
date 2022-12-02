@@ -68,9 +68,11 @@ If you find this repository helpful, you may consider cite our work:
 
 * Computing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Computing.md)
 
-* Concurrency and Computation: Practice and Experience - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CAC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/CAC.md)
+* Concurrency and Computation: Practice and Experience - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/CAC.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CAC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/CAC.md)
 
 * Connection Science - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/CS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/CS.md)
+
+* Cybernetics and Systems - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/CAS.md)
 
 * Data - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/Data.md)
 
@@ -156,7 +158,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * International Journal of Approximate Reasoning - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJAR.md)
 
-* International Journal of Computational Intelligence Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJCIS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJCIS.md)
+* International Journal of Computational Intelligence Systems - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/IJCIS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJCIS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJCIS.md)
 
 * International Journal of Crowd Science - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJCS.md)
 
@@ -274,7 +276,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * SN Computer Science - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/SN-CS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SN-CS.md)
 
-* Soft Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SC.md)
+* Soft Computing - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/SC.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/SC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SC.md)
 
 * Software: Practice and Experience - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/SPE.md)
 
@@ -331,7 +333,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * IJCAI - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCAI.md)
 
-* IJCNN - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCNN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCNN.md)
+* IJCNN - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/IJCNN.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/IJCNN.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/IJCNN.md)
 
 * KDD - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/KDD.md)
 

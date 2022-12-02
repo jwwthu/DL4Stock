@@ -1,0 +1,1 @@
+* Zhou Z, Zhang L, Zha R, et al. <b>Multi-Relational Graph Convolution Network for Stock Movement Prediction[C]</b>//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/9892482/)

@@ -1,0 +1,1 @@
+* Liang M, Wang X, Wu S. <b>Improving stock trend prediction through financial time series classification and temporal correlation analysis based on aligning change point[J]</b>. Soft Computing, 2022: 1-18. [Link](https://link.springer.com/article/10.1007/s00500-022-07630-7)
