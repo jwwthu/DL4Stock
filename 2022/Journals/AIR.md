@@ -1,2 +1,3 @@
+* Wang J, Zhu S. <b>A multi-factor two-stage deep integration model for stock price prediction based on intelligent optimization and feature clustering[J]</b>. Artificial Intelligence Review, 2022: 1-26. [Link](https://link.springer.com/article/10.1007/s10462-022-10352-9)
 * Venkateswararao K, Reddy B. <b>LT-SMF: long term stock market price trend prediction using optimal hybrid machine learning technique[J]</b>. Artificial Intelligence Review, 2022: 1-38. [Link](https://link.springer.com/article/10.1007/s10462-022-10291-5)
 * Olorunnimbe K, Viktor H. <b>Deep learning in the stock market—a systematic survey of practice, backtesting, and applications[J]</b>. Artificial Intelligence Review, 2022: 1-53. [Link](https://link.springer.com/article/10.1007/s10462-022-10226-0)

@@ -30,7 +30,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Applied Intelligence - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AI.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI.md)
 
-* Applied Sciences - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AS.md)
+* Applied Sciences - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/AS.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AS.md)
 
 * Applied Soft Computing - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/ASC.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ASC.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ASC.md)
 

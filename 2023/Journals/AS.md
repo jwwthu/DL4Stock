@@ -1,0 +1,1 @@
+* Li C, Qian G. <b>Stock Price Prediction Using a Frequency Decomposition Based GRU Transformer Neural Network[J]</b>. Applied Sciences, 2023, 13(1): 222. [Link](https://www.mdpi.com/2076-3417/13/1/222)

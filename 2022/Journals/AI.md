@@ -1,2 +1,3 @@
+* Liu Y, Zhang Q, Chu T. <b>Stock index prediction based on multi-time scale learning with multi-graph attention networks[J]</b>. Applied Intelligence, 2022: 1-12. [Link](https://link.springer.com/article/10.1007/s10489-022-04285-7)
 * Wang X, Li X, Li S. <b>A novel stock indices hybrid forecasting system based on features extraction and multi-objective optimizer[J]</b>. Applied Intelligence, 2022: 1-24. [Link](https://link.springer.com/article/10.1007/s10489-021-03031-9)
 * Swathi T, Kasiviswanath N, Rao A A. <b>An optimal deep learning-based LSTM for stock price prediction using twitter sentiment analysis[J]</b>. Applied Intelligence, 2022: 1-14. [Link](https://link.springer.com/article/10.1007/s10489-022-03175-2)
