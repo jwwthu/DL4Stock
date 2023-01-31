@@ -1,0 +1,2 @@
+* Soun Y, Yoo J, Cho M, et al. <b>Accurate Stock Movement Prediction with Self-supervised Learning from Sparse Noisy Tweets[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1691-1700. [Link](https://ieeexplore.ieee.org/abstract/document/10020720/) [Data](https://github.com/deeptrade-public/slot)
+* Seo K, Yang J. <b>Exploring Multi-Time Context Vector and Randomness for Stock Movement Prediction[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1114-1123. [Link](https://ieeexplore.ieee.org/abstract/document/10020373/)

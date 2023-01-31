@@ -1,0 +1,1 @@
+* Wang J, Hu Y, Jiang T X, et al. <b>Essential tensor learning for multimodal information-driven stock movement prediction[J]</b>. Knowledge-Based Systems, 2023: 110262. [Link](https://www.sciencedirect.com/science/article/pii/S0950705123000126)

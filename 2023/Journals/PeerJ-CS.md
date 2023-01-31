@@ -1,0 +1,1 @@
+* Aseeri A O. <b>Effective short-term forecasts of Saudi stock price trends using technical indicators and large-scale multivariate time series[J]</b>. PeerJ Computer Science, 2023, 9: e1205. [Link](https://peerj.com/articles/cs-1205/)

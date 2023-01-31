@@ -1,0 +1,1 @@
+* Lazcano A, Herrera P J, Monge M. <b>A Combined Model Based on Recurrent Neural Networks and Graph Convolutional Networks for Financial Time Series Forecasting[J]</b>. Mathematics, 2023, 11(1): 224. [Link](https://www.mdpi.com/2045522)

@@ -1,0 +1,1 @@
+* Htun H H, Biehl M, Petkov N. <b>Survey of feature selection and extraction techniques for stock market prediction[J]</b>. Financial Innovation, 2023, 9(1): 26. [Link](https://link.springer.com/article/10.1186/s40854-022-00441-7)
