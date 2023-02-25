@@ -1,2 +1,3 @@
+* Sahu S K, Mokhade A, Bokde N D. <b>An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges[J]</b>. Applied Sciences, 2023, 13(3): 1956. [Link](https://www.mdpi.com/article/10.3390/app13031956)
 * Ali M, Khan D M, Alshanbari H M, et al. <b>Prediction of Complex Stock Market Data Using an Improved Hybrid EMD-LSTM Model[J]</b>. Applied Sciences, 2023, 13(3): 1429. [Link](https://www.mdpi.com/2076-3417/13/3/1429)
 * Li C, Qian G. <b>Stock Price Prediction Using a Frequency Decomposition Based GRU Transformer Neural Network[J]</b>. Applied Sciences, 2023, 13(1): 222. [Link](https://www.mdpi.com/2076-3417/13/1/222)

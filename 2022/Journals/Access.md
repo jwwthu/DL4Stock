@@ -1,3 +1,4 @@
+* Zhang W, Yin T, Zhao Y, et al. <b>Reinforcement Learning for Stock Prediction and High-Frequency Trading with T+ 1 Rules[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9852239/)
 * Huang K, Li X, Liu F, et al. <b>ML-GAT: A Multilevel Graph Attention Model for Stock Prediction[J]</b>. IEEE Access, 2022, 10: 86408-86422. [Link](https://ieeexplore.ieee.org/abstract/document/9857891/)
 * Akşehir Z D, Kiliç E. <b>How to Handle Data Imbalance and Feature Selection Problems in CNN-Based Stock Price Forecasting[J]</b>. IEEE Access, 2022, 10: 31297-31305. [Link](https://ieeexplore.ieee.org/abstract/document/9738619/)
 * Ju C B, Chen A P. <b>Identifying Financial Market Trend Reversal Behavior With Structures of Price Activities Based on Deep Learning Methods[J]</b>. IEEE Access, 2022, 10: 12853-12865. [Link](https://ieeexplore.ieee.org/abstract/document/9693504/)

@@ -170,7 +170,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * International Journal of Financial Engineering - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/IJFE1.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJFE1.md)
 
-* International Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJF.md)
+* International Journal of Forecasting - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/IJF.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/IJF.md)
 
 * International Journal of Intelligent Information Technologies - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IJIIT.md)
 
@@ -238,7 +238,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Multimedia Systems - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/MS.md)
 
-* Multimedia Tools and Applications - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/MTA.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/MTA.md)
+* Multimedia Tools and Applications - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/MTA.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/MTA.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/MTA.md)
 
 * Natural Computing - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/NC.md)
 
@@ -323,7 +323,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * ICASSP - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICASSP.md)
 
-* ICDM - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICDM.md)
+* ICDM - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/ICDM.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICDM.md)
 
 * ICML - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICML.md)
 

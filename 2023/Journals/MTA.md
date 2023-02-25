@@ -1,0 +1,1 @@
+* Ji Z, Wu P, Ling C, et al. <b>Exploring the impact of investor’s sentiment tendency in varying input window length for stock price prediction[J]</b>. Multimedia Tools and Applications, 2023: 1-35. [Link](https://link.springer.com/article/10.1007/s11042-023-14587-8)

@@ -1,0 +1,1 @@
+* Lin F, Li P, Lin Y, et al. <b>Kernel-based Hybrid Interpretable Transformer for High-frequency Stock Movement Prediction[C]</b>//2022 IEEE International Conference on Data Mining (ICDM). IEEE, 2022: 241-250. [Link](https://ieeexplore.ieee.org/abstract/document/10027785/)
