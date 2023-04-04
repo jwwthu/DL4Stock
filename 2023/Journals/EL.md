@@ -1,0 +1,1 @@
+* Verma S, Sahu S P, Sahu T P. <b>Stock Market Forecasting with Different Input Indicators using Machine Learning and Deep Learning Techniques: A Review[J]</b>. Engineering Letters, 2023, 31(1). [Link](https://www.engineeringletters.com/issues_v31/issue_1/EL_31_1_22.pdf)

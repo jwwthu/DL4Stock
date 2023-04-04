@@ -1,0 +1,1 @@
+* Wang C, Ren J, Liang H, et al. <b>Conducting stock market index prediction via the localized spatial–temporal convolutional network[J]</b>. Computers and Electrical Engineering, 2023, 108: 108687. [Link](https://www.sciencedirect.com/science/article/pii/S0045790623001118)

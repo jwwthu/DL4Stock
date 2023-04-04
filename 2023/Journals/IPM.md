@@ -1,0 +1,1 @@
+* Jiang J, Wu L, Zhao H, et al. <b>Forecasting movements of stock time series based on hidden state guided deep learning approach[J]</b>. Information Processing & Management, 2023, 60(3): 103328. [Link](https://www.sciencedirect.com/science/article/pii/S0306457323000651)

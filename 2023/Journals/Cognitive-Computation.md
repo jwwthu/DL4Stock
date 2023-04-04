@@ -1,0 +1,1 @@
+* Wang Z, Hu Z, Li F, et al. <b>Learning-based stock trending prediction by incorporating technical indicators and social media sentiment[J]</b>. Cognitive Computation, 2023: 1-11. [Link](https://link.springer.com/article/10.1007/s12559-023-10125-8)

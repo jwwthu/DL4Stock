@@ -1,0 +1,1 @@
+* BL S, BR S. <b>Combined deep learning classifiers for stock market prediction: integrating stock price and news sentiments[J]</b>. Kybernetes, 2023, 52(3): 748-773. [Link](https://www.emerald.com/insight/content/doi/10.1108/K-06-2021-0457/full/html)

@@ -1,0 +1,1 @@
+* Huynh T T, Nguyen M H, Nguyen T T, et al. <b>Efficient integration of multi-order dynamics and internal dynamics in stock movement prediction[C]</b>//Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining. 2023: 850-858. [Link](https://dl.acm.org/doi/abs/10.1145/3539597.3570427)
