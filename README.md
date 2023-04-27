@@ -204,7 +204,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Journal of Experimental & Theoretical Artificial Intelligence - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/JETAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JETAI.md)
 
-* Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JF.md)
+* Journal of Forecasting - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/JF.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JF.md)
 
 * Journal of Information and Telecommunication - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/JIT.md)
 

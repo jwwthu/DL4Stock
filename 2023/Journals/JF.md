@@ -1,0 +1,1 @@
+* Zhang W, Li S, Guo Z, et al. <b>A hybrid forecasting model based on deep learning feature extraction and statistical arbitrage methods for stock trading strategies[J]</b>. Journal of Forecasting, 2023. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2978)
