@@ -1,0 +1,1 @@
+* Behera S, Nayak S C, Kumar A V S P. <b>A Comprehensive Survey on Higher Order Neural Networks and Evolutionary Optimization Learning Algorithms in Financial Time Series Forecasting[J]</b>. Archives of Computational Methods in Engineering, 2023: 1-48. [Link](https://link.springer.com/article/10.1007/s11831-023-09942-9)

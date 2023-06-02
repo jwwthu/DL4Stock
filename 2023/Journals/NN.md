@@ -1,0 +1,1 @@
+* Wang Z, Zhao H, Zheng M, et al. <b>A novel time series prediction method based on pooling compressed sensing echo state network and its application in stock market[J]</b>. Neural Networks, 2023, 164: 216-227. [Link](https://www.sciencedirect.com/science/article/pii/S0893608023002174)

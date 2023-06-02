@@ -40,9 +40,9 @@ If you find this repository helpful, you may consider cite our work:
 
 * Arabian Journal for Science and Engineering - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AJSE.md)
 
-* Archives of Computational Methods in Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ACME.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ACME.md)
+* Archives of Computational Methods in Engineering - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/ACME.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/ACME.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/ACME.md)
 
-* Artificial Intelligence Review - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AIR.md)
+* Artificial Intelligence Review - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/AIR.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AIR.md)
 
 * Axioms - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Axioms.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/Axioms.md)
 
@@ -248,7 +248,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Neural Computing and Applications - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/NCA.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/NCA.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/NCA.md)
 
-* Neural Networks - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/NN.md)
+* Neural Networks - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/NN.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/NN.md)
 
 * Neural Processing Letters - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/NPL.md)
 
@@ -325,7 +325,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * ICAISC - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICAISC.md)
 
-* ICASSP - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICASSP.md)
+* ICASSP - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Conferences/ICASSP.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICASSP.md)
 
 * ICDM - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/ICDM.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICDM.md)
 

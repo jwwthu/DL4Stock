@@ -1,0 +1,1 @@
+* Arya A N, Xu Y L, Stankovic L, et al. <b>Hierarchical Graph Learning for Stock Market Prediction Via a Domain-Aware Graph Pooling Operator[C]</b>//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/10095381/)

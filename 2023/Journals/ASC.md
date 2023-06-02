@@ -1,1 +1,2 @@
+* Yuan Y, Zhao-yang Z, Yang Z. <b>Stock index forecasting based on multivariate empirical mode decomposition and temporal convolutional networks[J]</b>. Applied Soft Computing, 2023: 110356. [Link](https://www.sciencedirect.com/science/article/pii/S1568494623003745)
 * Çeli̇k T B, İcan Ö, Bulut E. <b>Extending machine learning prediction capabilities by explainable AI in financial time series prediction[J]</b>. Applied Soft Computing, 2023, 132: 109876. [Link](https://www.sciencedirect.com/science/article/pii/S1568494622009255) [Code](https://doi.org/10.24433/CO.1813338.v1)
