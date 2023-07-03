@@ -1,0 +1,1 @@
+* Cui C, Li X, Zhang C, et al. <b>Temporal-relational hypergraph tri-attention networks for stock trend prediction[J]</b>. Pattern Recognition, 2023: 109759. [Link](https://www.sciencedirect.com/science/article/pii/S0031320323004570)

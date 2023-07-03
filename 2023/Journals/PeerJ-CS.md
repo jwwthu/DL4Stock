@@ -1,1 +1,2 @@
+* Liu J X, Leu J S, Holst S. <b>Stock price movement prediction based on Stocktwits investor sentiment using FinBERT and ensemble SVM[J]</b>. PeerJ Computer Science, 2023, 9: e1403. [Link](https://peerj.com/articles/cs-1403/) [Code](http://dx.doi.org/10.7717/peerj-cs.1403#supplemental-information)
 * Aseeri A O. <b>Effective short-term forecasts of Saudi stock price trends using technical indicators and large-scale multivariate time series[J]</b>. PeerJ Computer Science, 2023, 9: e1205. [Link](https://peerj.com/articles/cs-1205/)

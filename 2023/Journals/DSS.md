@@ -1,0 +1,1 @@
+* Hafiz F, Broekaert J, La Torre D, et al. <b>Co-evolution of neural architectures and features for stock market forecasting: A multi-objective decision perspective[J]</b>. Decision Support Systems, 2023: 114015. [Link](https://www.sciencedirect.com/science/article/pii/S0167923623000908)

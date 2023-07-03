@@ -82,13 +82,15 @@ If you find this repository helpful, you may consider cite our work:
 
 * Decision Analytics Journal - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/DAJ.md)
 
+* Decision Support Systems - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/DSS.md)
+
 * Digital Signal Processing - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/DSP.md)
 
 * Discrete Dynamics in Nature and Society - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/DDNS.md)
 
 * Economics Letters - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/EL.md)
 
-* Electronics - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/Electronics.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Electronics.md)
+* Electronics - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/Electronics.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/Electronics.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/Electronics.md)
 
 * Engineering Applications of Artificial Intelligence - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/EAAI.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/EAAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/EAAI.md)
 
@@ -256,7 +258,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Operational Research - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/OR.md)
 
-* Pattern Recognition - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/PR.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/PR.md)
+* Pattern Recognition - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/PR.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/PR.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/PR.md)
 
 * Pattern Recognition Letters - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/PRL.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/PRL.md)
 

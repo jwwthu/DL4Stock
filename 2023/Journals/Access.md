@@ -1,1 +1,2 @@
+* Mu G, Gao N, Wang Y, et al. <b>A Stock Price Prediction Model Based on Investor Sentiment and Optimized Deep Learning[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10130578/) [Data](https://doi.org/10.21227/544w-qw40)
 * Choi J, Yoo S, Zhou X, et al. <b>Hybrid Information Mixing Module for Stock Movement Prediction[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10075550/)
