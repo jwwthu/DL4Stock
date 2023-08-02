@@ -1,0 +1,1 @@
+* Tian H, Zhang X, Zheng X, et al. <b>Learning Dynamic Dependencies With Graph Evolution Recurrent Unit for Stock Predictions[J]</b>. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10176355/) [Code](https://github.com/Hugo-CAS/GERU/)

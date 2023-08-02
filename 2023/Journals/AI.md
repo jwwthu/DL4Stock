@@ -1,0 +1,1 @@
+* Sun Q, Si Y W. <b>Supervised actor-critic reinforcement learning with action feedback for algorithmic trading[J]</b>. Applied Intelligence, 2023: 1-18. [Link](https://link.springer.com/article/10.1007/s10489-022-04322-5)

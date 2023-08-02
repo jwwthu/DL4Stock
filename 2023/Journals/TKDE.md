@@ -1,0 +1,1 @@
+* Zhao Y, Du H, Liu Y, et al. <b>Stock movement prediction based on bi-typed hybrid-relational market knowledge graph via dual attention networks[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9942340/) [Code and Data](https://github.com/trytodoit227/)

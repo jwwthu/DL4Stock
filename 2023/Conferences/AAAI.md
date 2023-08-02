@@ -1,0 +1,1 @@
+* Li S, Liao W, Chen Y, et al. <b>PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2023, 37(4): 5187-5194. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25648)

@@ -1,0 +1,1 @@
+* Zheng Z, Shao J, Zhu J, et al. <b>Relational Temporal Graph Convolutional Networks for Ranking-Based Stock Prediction[C]</b>//2023 IEEE 39th International Conference on Data Engineering (ICDE). IEEE, 2023: 123-136. [Link](https://ieeexplore.ieee.org/abstract/document/10184655/) [Code](https://github.com/zhengzetao/RTGCN)

@@ -30,7 +30,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * Applied Economics Letters - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AEL.md)
 
-* Applied Intelligence - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AI.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI.md)
+* Applied Intelligence - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/AI.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AI.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AI.md)
 
 * Applied Sciences - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/AS.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/AS.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/AS.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/AS.md)
 
@@ -136,9 +136,11 @@ If you find this repository helpful, you may consider cite our work:
 
 * IEEE Transactions on Fuzzy Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TFS.md)
 
-* IEEE Transactions on Knowledge and Data Engineering - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/TKDE.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TKDE.md)
+* IEEE Transactions on Knowledge and Data Engineering - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/TKDE.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/TKDE.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TKDE.md)
 
 * IEEE Transactions on Neural Networks and Learning Systems - [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Journals/TNNLS.md)
+
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Journals/TSMC.md)
 
 * IEEE/CAA Journal of Automatica Sinica - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/IEEE-CAA-JAS.md)
 
@@ -309,7 +311,7 @@ If you find this repository helpful, you may consider cite our work:
 * World Wide Web - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Journals/WWW.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Journals/WWW.md)
 
 ## Conferences
-* AAAI - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/AAAI.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/AAAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/AAAI.md)
+* AAAI - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Conferences/AAAI.md) | [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/AAAI.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/AAAI.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/AAAI.md)
 
 * BigData - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/BigData.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/BigData.md)
 
@@ -328,6 +330,8 @@ If you find this repository helpful, you may consider cite our work:
 * ICAISC - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICAISC.md)
 
 * ICASSP - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Conferences/ICASSP.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICASSP.md)
+
+* ICDE - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Conferences/ICDE.md)
 
 * ICDM - [2022](https://github.com/jwwthu/DL4Stock/blob/master/2022/Conferences/ICDM.md) | [2020](https://github.com/jwwthu/DL4Stock/blob/master/2020/Conferences/ICDM.md)
 
