@@ -1,0 +1,1 @@
+* Mehrabian A, Hoseinzade E, Mazloum M, et al. <b>SAMBA: A Graph-Mamba Approach for Stock Price Prediction[C]</b>. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025. [Link](https://arxiv.org/abs/2410.03707) [Code](https://github.com/Ali-Meh619/SAMBA)

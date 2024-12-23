@@ -329,7 +329,7 @@ If you find this repository helpful, you may consider cite our work:
 
 * ICAISC - [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICAISC.md)
 
-* ICASSP - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Conferences/ICASSP.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICASSP.md)
+* ICASSP - [2025](https://github.com/jwwthu/DL4Stock/blob/master/2025/Conferences/ICASSP.md) | [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Conferences/ICASSP.md) | [2021](https://github.com/jwwthu/DL4Stock/blob/master/2021/Conferences/ICASSP.md)
 
 * ICDE - [2023](https://github.com/jwwthu/DL4Stock/blob/master/2023/Conferences/ICDE.md)
 
